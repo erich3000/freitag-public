@@ -20,6 +20,16 @@
     </item>
     
     <item>
+      <title>Kontext Tokens sparen durch Skills</title>
+      <link>https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/</link>
+      <pubDate>Fri, 30 Jan 2026 20:30:00 +0100</pubDate>
+      
+      <guid>https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/</guid>
+      <description>&lt;p&gt;Anders als bei Menschen, die bei sich wiederholenden Taetigkeiten mit der Zeit immer besser werden, lassen bei KI-Agenten die Ergebnisse deutlich nach, sobald das Kontextfenster zu klein wird.&lt;/p&gt;
+&lt;p&gt;Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Eintraege fuer mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualitaet so schnell nachlaesst.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Ahaan-Thai MCP als Bundle</title>
       <link>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0100</pubDate>

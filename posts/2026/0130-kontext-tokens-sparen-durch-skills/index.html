@@ -15,23 +15,27 @@
     <title>
         
            
-               Github &vert; Mein FREItag
+               Kontext Tokens sparen durch Skills &vert; Mein FREItag
            
         
     </title>
-    <meta itemprop="name" content="Github">
-    <meta itemprop="description" content="Github - Was ich an meinen freien Freitagen mache">
+    <meta itemprop="name" content="Kontext Tokens sparen durch Skills">
+    <meta itemprop="description" content="Kontext Tokens sparen durch Skills - Was ich an meinen freien Freitagen mache">
     <meta property="og:site_name" content="Mein FREItag">
 
-    <meta property="og:url" content="https://www.jensihrig.de/page/github/">
+    <meta property="og:url" content="https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/">
   <meta property="og:site_name" content="Mein FREItag">
-  <meta property="og:title" content="Github">
-  <meta property="og:description" content="Was ich an meinen freien Freitagen mache">
+  <meta property="og:title" content="Kontext Tokens sparen durch Skills">
+  <meta property="og:description" content="Anders als bei Menschen, die bei sich wiederholenden Taetigkeiten mit der Zeit immer besser werden, lassen bei KI-Agenten die Ergebnisse deutlich nach, sobald das Kontextfenster zu klein wird.
+Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Eintraege fuer mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualitaet so schnell nachlaesst.">
   <meta property="og:locale" content="de_DE">
   <meta property="og:type" content="article">
-    <meta property="article:section" content="page">
-    <meta property="article:published_time" content="2020-01-01T00:00:00+01:00">
-    <meta property="article:modified_time" content="2020-01-01T00:00:00+01:00">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-01-30T20:30:00+01:00">
+    <meta property="article:modified_time" content="2026-01-30T20:30:00+01:00">
+    <meta property="article:tag" content="Agentic-Coding">
+    <meta property="article:tag" content="Agent-Skills">
+    <meta property="article:tag" content="Mcp-Server">
 
 
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
@@ -47,7 +51,7 @@
 
 
     
-    <link rel="canonical" href="https://www.jensihrig.de/page/github/">
+    <link rel="canonical" href="https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/">
     
 
     <link rel="stylesheet" href="https://www.jensihrig.de/theme.css">
@@ -131,8 +135,8 @@
         
     <div class="article-wrapper u-cf single">
         
-            <a class="bubble" href="https://www.jensihrig.de/page/github/">
-    <i class="fas fa-fw fa-file"></i>
+            <a class="bubble" href="https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/">
+    <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
 <article class="default article">
@@ -140,15 +144,15 @@
 
     <div class="content">
     <h1 class="article-title">
-        <a href="https://www.jensihrig.de/page/github/">
-            Github
+        <a href="https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/">
+            Kontext Tokens sparen durch Skills
         </a>
     </h1>
 
     <div class="meta">
         
             
-                <span class="date moment">2020-01-01</span>
+                <span class="date moment">2026-01-30</span>
             
         
 
@@ -162,19 +166,44 @@
     
         
 
-        
+        <p>Anders als bei Menschen, die bei sich wiederholenden Taetigkeiten mit der Zeit immer besser werden, lassen bei KI-Agenten die Ergebnisse deutlich nach, sobald das Kontextfenster zu klein wird.</p>
+<p>Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Eintraege fuer mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualitaet so schnell nachlaesst.</p>
+<p>Die Antwort waren meine MCP-Server: Deren Toolbeschreibungen werden beim Start einer Session komplett in den Kontext geladen. Dadurch nimmt schon der initiale Zustand eine grosse Portion des Kontextfensters ein. Je mehr Tools ein MCP-Server anbietet, desto groesser ist diese Kontextverschwendung.</p>
+<p>Bei den Agent Skills ist das anders. Dort gibt es das sogenannte Progressive Disclosure: Zuerst werden nur die Beschreibungen geladen und die vollstaendigen Skill-Inhalte erst bei Bedarf. Wenn man dann noch Teile der Skills durch Skripte realisiert, fuehrt das zu einer deutlichen Einsparung von Tokens und ermoeglicht es, das Kontextfenster laenger sinnvoll auszunutzen.</p>
+<p>Deshalb habe ich die essentiellen Funktionalitaeten, die meine MCP-Server bereitstellen, in Shell-Skripte ueberfuehrt und diese in Agent Skills eingebunden. So kann ich die gleichen Aufgaben mit deutlich weniger Tokenverbrauch erledigen, und der KI-Agent behaelt seine Konzentration deutlich laenger.</p>
+<p>Diese Skills habe ich nun als <a
+  href="https://github.com/Der-Reiskoch/ahaan-thai-claude-code-marketplace" target="_blank" rel="noopener noreferrer">Plugins für Claude Code <i class="fas fa-arrow-up-right-from-square fa-external-link-alt" aria-hidden="true"></i></a>
+ zur Verfuegung gestellt.</p>
+
     
 </div>
 
+    
+<div class="footer">
+
 
     
-        <script>window.location = "https://github.com/erich3000/"</script>
-    
-
-    
-<div class="footer no-tags">
-
-
+        <div class="tags">
+            <i class="fa fa-tags"></i>
+            <div class="links">
+                
+                    
+                    
+                    <a href="https://www.jensihrig.de/tags/agentic-coding/">Agentic-Coding</a>
+                    
+                
+                    
+                    
+                    <a href="https://www.jensihrig.de/tags/agent-skills/">Agent-Skills</a>
+                    
+                
+                    
+                    
+                    <a href="https://www.jensihrig.de/tags/mcp-server/">Mcp-Server</a>
+                    
+                
+            </div>
+        </div>
     
 
     
