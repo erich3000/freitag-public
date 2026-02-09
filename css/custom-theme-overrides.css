@@ -1,0 +1,25 @@
+:root {
+  --freitag-header-bg: #5c8b59;
+  --freitag-nav-bg: #39533f;
+  --freitag-nav-hover-bg: #48694e;
+  --freitag-nav-text: #f1f7f1;
+}
+
+.bilberry-hugo-theme header {
+  background-color: var(--freitag-header-bg);
+}
+
+.bilberry-hugo-theme header .toggler {
+  background: var(--freitag-nav-bg);
+  color: var(--freitag-nav-text);
+}
+
+.bilberry-hugo-theme nav {
+  background: var(--freitag-nav-bg);
+  color: var(--freitag-nav-text);
+}
+
+.bilberry-hugo-theme nav ul li a:hover {
+  color: inherit;
+  background-color: var(--freitag-nav-hover-bg);
+}
