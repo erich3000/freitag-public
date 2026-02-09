@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claude-D on Mein FREItag</title>
+    <link>http://localhost:1414/tags/claude-d/</link>
+    <description>Recent content in Claude-D on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 29 Aug 2025 20:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/claude-d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ahaan-Thai MCP Server</title>
+      <link>http://localhost:1414/posts/2025/0829-ahaan-thai-mcp-server-copy/</link>
+      <pubDate>Fri, 29 Aug 2025 20:30:00 +0100</pubDate>
+      <guid>http://localhost:1414/posts/2025/0829-ahaan-thai-mcp-server-copy/</guid>
+      <description>&lt;p&gt;Nachdem sich der Thai-Food-Dictionary MCP Server beim übersetzen sehr gut bewährt hat, habe ich noch zwei weitere Server für meine Kochbuchsammlung (&lt;code&gt;thai-cook-book-library&lt;/code&gt;) und das gesamte Thai Food Lexikon (&lt;code&gt;thai-food-encyclopedia&lt;/code&gt;) zu Verfügung gestellt. Auch diese hat Claude Code mehr oder weniger selbst entwickelt und dabei den bestehenenden Server nochmal komplett refactored.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

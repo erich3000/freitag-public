@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Mein FREItag</title>
+    <link>https://freitag.jensihrig.de/page/</link>
+    <description>Recent content in Pages on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://freitag.jensihrig.de/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Über Mein FREItag</title>
+      <link>https://freitag.jensihrig.de/page/ueber-mein-freitag/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0100</pubDate>
+      <guid>https://freitag.jensihrig.de/page/ueber-mein-freitag/</guid>
+      <description>&lt;p&gt;Als ich Ende 2021 als &lt;a&#xA;  href=&#34;https://erich3000.github.io/lebenslauf/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Senior Frontend Engineer &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; bei JobRad in Freiburg startete, war eine Frage, die mir gestellt wurde, ob ich Interesse daran hätte, Teilzeit zu arbeiten. Darüber hatte ich vorher schon ein paar Mal nachgedacht und sagte &amp;ldquo;Ja&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lebenslauf</title>
+      <link>https://freitag.jensihrig.de/page/lebenslauf/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0100</pubDate>
+      <guid>https://freitag.jensihrig.de/page/lebenslauf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github</title>
+      <link>https://freitag.jensihrig.de/page/github/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>https://freitag.jensihrig.de/page/github/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

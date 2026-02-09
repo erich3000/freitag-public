@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infoes on Mein FREItag</title>
+    <link>http://localhost:1414/info/</link>
+    <description>Recent content in Infoes on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 06 Feb 2021 20:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Über Mein FREItag</title>
+      <link>http://localhost:1414/info/ueber-mein-freitag/</link>
+      <pubDate>Sat, 06 Feb 2021 20:30:00 +0100</pubDate>
+      <guid>http://localhost:1414/info/ueber-mein-freitag/</guid>
+      <description>&lt;p&gt;Draft kopiert von CHAT GPT&lt;/p&gt;&#xA;&lt;h2 id=&#34;meine-frage&#34;&gt;Meine Frage:&lt;/h2&gt;&#xA;&lt;p&gt;Ich arbeite teilzeit (80%) ich habe daher freitags immer frei. bei schlechtem wetter bastle ich dann oft an meinen Blog projekten herum bei gutem wetter gehe ich wandern oder mach radtouren. Ich möchte über meine aktivitäten in einem Blog schreiben. mein arbeits title ist &amp;ldquo;Mein FREItag&amp;rdquo; - &amp;ldquo;20 Prozent für mich&amp;rdquo;. was hältst du davon ? hast du ideen oder vorschläge ?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

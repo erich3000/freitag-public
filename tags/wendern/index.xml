@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wendern on Mein FREItag</title>
+    <link>http://localhost:1414/tags/wendern/</link>
+    <description>Recent content in Wendern on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 19 Sep 2025 20:46:24 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/wendern/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Titisee und Hinterzarten</title>
+      <link>http://localhost:1414/posts/2026/0919-titisee-hinterzarten/</link>
+      <pubDate>Fri, 19 Sep 2025 20:46:24 +0100</pubDate>
+      <guid>http://localhost:1414/posts/2026/0919-titisee-hinterzarten/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
