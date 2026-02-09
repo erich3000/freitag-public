@@ -13,7 +13,7 @@
       <link>https://www.jensihrig.de/posts/2026/0206-ji-skills-plugin/</link>
       <pubDate>Fri, 06 Feb 2026 20:30:00 +0100</pubDate>
       <guid>https://www.jensihrig.de/posts/2026/0206-ji-skills-plugin/</guid>
-      <description>&lt;p&gt;In den letzten Monaten habe ich mich beruflich wie auch privat intensiv mit KI-Agenten beschäftigt. Dabei habe ich gelernt, dass die Qualität und Ausführlichkeit von Prompts einen enormen Einfluss auf die Qualität der Ergebnisse haben.&lt;/p&gt;</description>
+      <description>&lt;p&gt;In den letzten Monaten habe ich mich beruflich wie auch privat intensiv mit KI-Agenten beschäftigt. Dabei habe ich gelernt, dass die Qualität und Ausführlichkeit von Prompts einen enormen Einfluss auf die Qualität der Ergebnisse haben.&lt;/p&gt;&#xA;&lt;p&gt;Ausführliche Prompts direkt in der CLI zu schreiben ist jedoch mühsam. Deshalb habe ich begonnen, Markdown-Dateien mit detaillierten Beschreibungen von Todos im Projekt-Root abzulegen und diese den Agenten als Input zu übergeben. Das wird allerdings schnell unübersichtlich und ist für andere Teammitglieder schwer nachvollziehbar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ahaan-Thai MCP als Bundle</title>
