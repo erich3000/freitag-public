@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mein FREItag</title>
-    <link>https://freitag.jensihrig.de/posts/</link>
+    <link>https://www.jensihrig.de/posts/</link>
     <description>Recent content in Posts on Mein FREItag</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <lastBuildDate>Fri, 06 Feb 2026 20:30:00 +0100</lastBuildDate>
-    <atom:link href="https://freitag.jensihrig.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.jensihrig.de/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>/agent-todos und /skill-teaching</title>
-      <link>https://freitag.jensihrig.de/posts/2026/0206-ji-skills-plugin/</link>
+      <link>https://www.jensihrig.de/posts/2026/0206-ji-skills-plugin/</link>
       <pubDate>Fri, 06 Feb 2026 20:30:00 +0100</pubDate>
-      <guid>https://freitag.jensihrig.de/posts/2026/0206-ji-skills-plugin/</guid>
+      <guid>https://www.jensihrig.de/posts/2026/0206-ji-skills-plugin/</guid>
       <description>&lt;p&gt;In den letzten Monaten habe ich mich beruflich wie auch privat intensiv mit KI-Agenten beschäftigt. Dabei habe ich gelernt, dass die Qualität und Ausführlichkeit von Prompts einen enormen Einfluss auf die Qualität der Ergebnisse haben.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ahaan-Thai MCP als Bundle</title>
-      <link>https://freitag.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</link>
+      <link>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0100</pubDate>
-      <guid>https://freitag.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</guid>
+      <guid>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</guid>
       <description>&lt;p&gt;Heute habe ich die Ahaan-Thai MCP-Server als MCP-Bundle (MCPB) veröffentlicht. Meine drei MCP-Server rund ums thailändische Essen können nun als &lt;a&#xA;  href=&#34;https://www.ahaan-thai.de/mcp/ahaan-thai.mcpb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Bundle &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; heruntergeladen und so ganz einfach in Claude Desktop und andere KI-Produkte, die diesen offenen Standard von Anthropic unterstützen, installiert werden. Auch bei dieser Umsetzung hat mich Claude Code tatkräftig unterstützt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Von Titisee nach Hinterzarten</title>
-      <link>https://freitag.jensihrig.de/posts/2025/0919-titisee-hinterzarten/</link>
+      <link>https://www.jensihrig.de/posts/2025/0919-titisee-hinterzarten/</link>
       <pubDate>Fri, 19 Sep 2025 20:46:24 +0100</pubDate>
-      <guid>https://freitag.jensihrig.de/posts/2025/0919-titisee-hinterzarten/</guid>
+      <guid>https://www.jensihrig.de/posts/2025/0919-titisee-hinterzarten/</guid>
       <description>&lt;p&gt;Heute bin ich von Titisee über Bärental nach Hinterzarten gewandert (16,21 km und 456 Höhenmeter in 3:57:01).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ahaan-Thai MCP Server</title>
-      <link>https://freitag.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server-copy/</link>
+      <link>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server-copy/</link>
       <pubDate>Fri, 12 Sep 2025 20:30:00 +0100</pubDate>
-      <guid>https://freitag.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server-copy/</guid>
+      <guid>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server-copy/</guid>
       <description>&lt;p&gt;Nachdem sich der Thai-Food-Dictionary MCP Server beim Übersetzen sehr gut bewährt hat, habe ich noch zwei weitere Server für meine Kochbuchsammlung (&lt;code&gt;thai-cook-book-library&lt;/code&gt;) und das gesamte Thai Food Lexikon (&lt;code&gt;thai-food-encyclopedia&lt;/code&gt;) zur Verfügung gestellt. Auch diese wurden von Claude Code mehr oder weniger selbst entwickelt; dabei wurde der bestehende Server noch einmal komplett refactored.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thai Food Dictionary MCP Server</title>
-      <link>https://freitag.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/</link>
+      <link>https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/</link>
       <pubDate>Fri, 22 Aug 2025 20:30:00 +0100</pubDate>
-      <guid>https://freitag.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/</guid>
+      <guid>https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/</guid>
       <description>&lt;p&gt;Vor ein paar Monaten hatte ich angefangen, mein Thai-Food-Lexikon &lt;a&#xA;  href=&#34;https://www.ahaan-thai.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ahaan-thai.de &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; ins Englische zu übersetzen. Das Übersetzen der Markdown-Dateien, die Hugo dann als HTML rendert, habe ich anfangs noch mit deepl.com gemacht, bevor ich auf Claude Code umgestiegen bin. Das Übersetzen an sich hat damit auch sehr gut funktioniert, nur die unterschiedlichen Transkriptionen im Deutschen und im Englischen waren immer wieder ein Problem.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Von Himmelreich auf den Feldberg</title>
-      <link>https://freitag.jensihrig.de/posts/2025/0718-von-himmelreich-auf-den-feldberg/</link>
+      <link>https://www.jensihrig.de/posts/2025/0718-von-himmelreich-auf-den-feldberg/</link>
       <pubDate>Fri, 18 Jul 2025 20:00:00 +0200</pubDate>
-      <guid>https://freitag.jensihrig.de/posts/2025/0718-von-himmelreich-auf-den-feldberg/</guid>
+      <guid>https://www.jensihrig.de/posts/2025/0718-von-himmelreich-auf-den-feldberg/</guid>
       <description>&lt;p&gt;Eigentlich wollte ich heute bei Hinterzarten wandern gehen, aber der SEV durchs Höllental ab Himmelreich war mir dann doch zu viel. Daher bin ich in Himmelreich &amp;ldquo;einfach mal losgelaufen&amp;rdquo;, bis ich ein Schild entdeckte: &lt;strong&gt;Feldberg 16 km&lt;/strong&gt;. &amp;ldquo;Das geht ja&amp;rdquo;, dachte ich, und lief los. Die Tausend Meter Höhenunterschied und die Tatsache, dass ich von dort ja auch wieder zurückmuss, habe ich wohl verdrängt. Am Ende landete ich doch noch in Hinterzarten und kam auf 35,27 km, 1.308 Höhenmeter und war knapp sieben Stunden unterwegs.&lt;/p&gt;</description>
     </item>
   </channel>
