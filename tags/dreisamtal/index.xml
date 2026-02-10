@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dreisamtal on Mein FREItag</title>
-    <link>http://localhost:1414/tags/dreisamtal/</link>
+    <link>https://www.jensihrig.de/tags/dreisamtal/</link>
     <description>Recent content in Dreisamtal on Mein FREItag</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <lastBuildDate>Fri, 25 Jul 2025 20:30:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1414/tags/dreisamtal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.jensihrig.de/tags/dreisamtal/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wanderung Hoefner Huette</title>
-      <link>http://localhost:1414/posts/2025/0725-wanderung-hoefner-huette/</link>
+      <title>Wanderung zur Höfener Hütte</title>
+      <link>https://www.jensihrig.de/posts/2025/0725-wanderung-hoefner-huette/</link>
       <pubDate>Fri, 25 Jul 2025 20:30:00 +0200</pubDate>
-      <guid>http://localhost:1414/posts/2025/0725-wanderung-hoefner-huette/</guid>
-      <description>&lt;p&gt;An der Höfener Hütte bin ich letzte Woche auf dem Weg zum Feldberg schon vorbeigekommen. Diesmal bin ich jedoch in Oberried gestartet und bin von der Hütte aus nach Kirchzarten weitergelaufen. Das Wetter war diesmal eher bescheiden mit Nebel und mehreren Regengüssen. (16,26 km und 614 Höhenmeter in 4:28:51)&lt;/p&gt;</description>
+      <guid>https://www.jensihrig.de/posts/2025/0725-wanderung-hoefner-huette/</guid>
+      <description>&lt;p&gt;An der Höfener Hütte bin ich letzte Woche auf dem Weg zum Feldberg schon vorbeigekommen. Diesmal bin ich jedoch in Oberried gestartet und bin von der Hütte aus nach Kirchzarten weitergelaufen. Das Wetter war diesmal eher bescheiden mit Nebel und mehreren Regengüssen. (16,26 km und 614 Höhenmeter in 4 Stunden und 28 Minuten)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
