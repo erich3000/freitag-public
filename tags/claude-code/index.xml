@@ -24,9 +24,9 @@
     </item>
     <item>
       <title>Ahaan-Thai MCP Server</title>
-      <link>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server-copy/</link>
+      <link>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server/</link>
       <pubDate>Fri, 12 Sep 2025 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server-copy/</guid>
+      <guid>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server/</guid>
       <description>&lt;p&gt;Nachdem sich der Thai-Food-Dictionary MCP Server beim Übersetzen sehr gut bewährt hat, habe ich noch zwei weitere Server für meine Kochbuchsammlung (&lt;code&gt;thai-cook-book-library&lt;/code&gt;) und das gesamte Thai Food Lexikon (&lt;code&gt;thai-food-encyclopedia&lt;/code&gt;) zur Verfügung gestellt. Auch diese wurden von Claude Code mehr oder weniger selbst entwickelt; dabei wurde der bestehende Server noch einmal komplett refactored.&lt;/p&gt;&#xA;&lt;p&gt;Mit diesen beiden Servern sowie dem bereits bestehenden Übersetzungsserver habe ich das Importieren von Rezepten aus Kochbüchern in das Thai-Food-Lexikon &lt;a&#xA;  href=&#34;https://www.ahaan-thai.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ahaan-thai.de &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; halb automatisiert. Ich kann Seiten abfotografieren, und Claude Desktop, das ebenfalls auf die MCP-Server zugreifen kann, liest die Bilddateien ein, findet standardisierte Transkriptionen oder übersetzt die thailändischen Namen und gleicht die Daten anschließend mit dem bestehenden Lexikon ab.&lt;/p&gt;</description>
     </item>
     <item>

@@ -16,11 +16,11 @@
       <description>&lt;p&gt;In den letzten Monaten habe ich mich beruflich wie auch privat intensiv mit KI-Agenten beschäftigt. Dabei habe ich gelernt, dass die Qualität und Ausführlichkeit von Prompts einen enormen Einfluss auf die Qualität der Ergebnisse haben.&lt;/p&gt;&#xA;&lt;p&gt;Ausführliche Prompts direkt in der CLI zu schreiben ist jedoch mühsam. Deshalb habe ich begonnen, Markdown-Dateien mit detaillierten Beschreibungen von Todos im Projekt-Root abzulegen und diese den Agenten als Input zu übergeben. Das wird allerdings schnell unübersichtlich und ist für andere Teammitglieder schwer nachvollziehbar.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Kontext Tokens sparen durch Skills</title>
+      <title>Kontext-Tokens sparen durch Skills</title>
       <link>https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/</link>
       <pubDate>Fri, 30 Jan 2026 20:30:00 +0100</pubDate>
       <guid>https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/</guid>
-      <description>&lt;p&gt;Anders als bei Menschen, die bei sich wiederholenden Taetigkeiten mit der Zeit immer besser werden, lassen bei KI-Agenten die Ergebnisse deutlich nach, sobald das Kontextfenster zu klein wird.&lt;/p&gt;&#xA;&lt;p&gt;Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Eintraege fuer mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualitaet so schnell nachlaesst.&lt;/p&gt;&#xA;&lt;p&gt;Die Antwort waren meine MCP-Server: Deren Toolbeschreibungen werden beim Start einer Session komplett in den Kontext geladen. Dadurch nimmt schon der initiale Zustand eine grosse Portion des Kontextfensters ein. Je mehr Tools ein MCP-Server anbietet, desto groesser ist diese Kontextverschwendung.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Anders als bei Menschen, die bei sich wiederholenden Tätigkeiten mit der Zeit immer besser werden, lassen bei KI-Agenten die Ergebnisse deutlich nach, sobald das Kontextfenster zu klein wird.&lt;/p&gt;&#xA;&lt;p&gt;Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Einträge für mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualität so schnell nachlässt.&lt;/p&gt;&#xA;&lt;p&gt;Die Antwort waren meine MCP-Server: Deren Toolbeschreibungen werden beim Start einer Session komplett in den Kontext geladen. Dadurch nimmt schon der initiale Zustand einen großen Teil des Kontextfensters ein. Je mehr Tools ein MCP-Server anbietet, desto größer ist diese Kontextverschwendung.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ahaan-Thai MCP als Bundle</title>
@@ -31,9 +31,9 @@
     </item>
     <item>
       <title>Ahaan-Thai MCP Server</title>
-      <link>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server-copy/</link>
+      <link>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server/</link>
       <pubDate>Fri, 12 Sep 2025 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server-copy/</guid>
+      <guid>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server/</guid>
       <description>&lt;p&gt;Nachdem sich der Thai-Food-Dictionary MCP Server beim Übersetzen sehr gut bewährt hat, habe ich noch zwei weitere Server für meine Kochbuchsammlung (&lt;code&gt;thai-cook-book-library&lt;/code&gt;) und das gesamte Thai Food Lexikon (&lt;code&gt;thai-food-encyclopedia&lt;/code&gt;) zur Verfügung gestellt. Auch diese wurden von Claude Code mehr oder weniger selbst entwickelt; dabei wurde der bestehende Server noch einmal komplett refactored.&lt;/p&gt;&#xA;&lt;p&gt;Mit diesen beiden Servern sowie dem bereits bestehenden Übersetzungsserver habe ich das Importieren von Rezepten aus Kochbüchern in das Thai-Food-Lexikon &lt;a&#xA;  href=&#34;https://www.ahaan-thai.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ahaan-thai.de &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; halb automatisiert. Ich kann Seiten abfotografieren, und Claude Desktop, das ebenfalls auf die MCP-Server zugreifen kann, liest die Bilddateien ein, findet standardisierte Transkriptionen oder übersetzt die thailändischen Namen und gleicht die Daten anschließend mit dem bestehenden Lexikon ab.&lt;/p&gt;</description>
     </item>
     <item>
