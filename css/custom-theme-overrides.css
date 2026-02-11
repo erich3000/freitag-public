@@ -1,5 +1,7 @@
 :root {
   --freitag-header-bg: #5c8b59;
+  --freitag-header-text: #f1f7f1;
+  --freitag-header-text-hover: #48694e;
   --freitag-nav-bg: #39533f;
   --freitag-nav-hover-bg: #48694e;
   --freitag-nav-text: #f1f7f1;
@@ -22,4 +24,12 @@
 .bilberry-hugo-theme nav ul li a:hover {
   color: inherit;
   background-color: var(--freitag-nav-hover-bg);
+}
+
+.bilberry-hugo-theme header .titles .title a {
+  color: var(--freitag-header-text);
+}
+
+.bilberry-hugo-theme header .titles .title a:hover {
+  color: var(--freitag-header-text-hover);
 }
