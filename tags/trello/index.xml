@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trello on Mein FREItag</title>
+    <link>https://www.jensihrig.de/tags/trello/</link>
+    <description>Recent content in Trello on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 07 Feb 2025 20:30:00 +0100</lastBuildDate>
+    <atom:link href="https://www.jensihrig.de/tags/trello/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian als Trello Ersatz</title>
+      <link>https://www.jensihrig.de/posts/2025/0207-obsidian-als-trello-ersatz/</link>
+      <pubDate>Fri, 07 Feb 2025 20:30:00 +0100</pubDate>
+      <guid>https://www.jensihrig.de/posts/2025/0207-obsidian-als-trello-ersatz/</guid>
+      <description>&lt;p&gt;Vor Kurzem habe ich auf medium.com wieder mehrere Artikel ueber die Personal-Knowledge-Management-Software &amp;ldquo;Obsidian&amp;rdquo; gelesen und mir die Software endlich installiert. Ich war sofort begeistert, vor allem weil Obsidian auf Markdown setzt. Dieses Format verwende ich seit Jahren, um Artikel und Rezepte fuer meinen Hugo-basierten Blog zu schreiben.&lt;/p&gt;&#xA;&lt;p&gt;Die Markdown-Dateien liegen nicht in irgendeiner Cloud, sondern lokal auf meinem Rechner. Ich kann sie sowohl mit Obsidian als auch mit einem normalen Texteditor bearbeiten. Ausserdem kann ich sie mit Obsidian Sync auf weitere Rechner und mobile Geraete abgleichen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
