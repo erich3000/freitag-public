@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freibung on Mein FREItag</title>
+    <link>http://localhost:1414/tags/freibung/</link>
+    <description>Recent content in Freibung on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 24 Jan 2025 20:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/freibung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wandern Kleiner Rosskopf</title>
+      <link>http://localhost:1414/posts/2025/0124-wandern-kleiner-rosskopf/</link>
+      <pubDate>Fri, 24 Jan 2025 20:30:00 +0100</pubDate>
+      <guid>http://localhost:1414/posts/2025/0124-wandern-kleiner-rosskopf/</guid>
+      <description>&lt;p&gt;Bei relativ schönem Wetter führte mich die erste Wanderung des neuen Jahres über St. Wendelin zum kleinen Rosskopf und zurück in die Altstadt.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
