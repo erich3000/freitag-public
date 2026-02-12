@@ -41,6 +41,17 @@
     </item>
     
     <item>
+      <title>Claude Code migriert Svelte</title>
+      <link>https://www.jensihrig.de/posts/2025/1024-claude-code-migriert-svelte/</link>
+      <pubDate>Fri, 24 Oct 2025 20:30:00 +0200</pubDate>
+      
+      <guid>https://www.jensihrig.de/posts/2025/1024-claude-code-migriert-svelte/</guid>
+      <description>&lt;p&gt;Heute durfte Claude Code auch mal etwas coden und nicht nur thailändische Gerichte übersetzen. Mit seiner Hilfe habe ich endlich meine komplette Komponentenbibliothek &lt;a
+  href=&#34;https://khao-ui-tools.github.io/khao-ui/storybook/?path=/docs/about-khao-ui--docs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Khao UI &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+ auf die Svelte-5-Syntax migriert. Eine echt langweilige Aufgabe, die ich schon seit Monaten vor mir her schiebe.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Ahaan-Thai MCP als Bundle</title>
       <link>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0100</pubDate>

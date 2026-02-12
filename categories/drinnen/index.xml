@@ -23,6 +23,13 @@
       <description>&lt;p&gt;Anders als bei Menschen, die bei sich wiederholenden Tätigkeiten mit der Zeit immer besser werden, lassen bei KI-Agenten die Ergebnisse deutlich nach, sobald das Kontextfenster zu klein wird.&lt;/p&gt;&#xA;&lt;p&gt;Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Einträge für mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualität so schnell nachlässt.&lt;/p&gt;&#xA;&lt;p&gt;Die Antwort waren meine MCP-Server: Deren Toolbeschreibungen werden beim Start einer Session komplett in den Kontext geladen. Dadurch nimmt schon der initiale Zustand einen großen Teil des Kontextfensters ein. Je mehr Tools ein MCP-Server anbietet, desto größer ist diese Kontextverschwendung.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Claude Code migriert Svelte</title>
+      <link>https://www.jensihrig.de/posts/2025/1024-claude-code-migriert-svelte/</link>
+      <pubDate>Fri, 24 Oct 2025 20:30:00 +0200</pubDate>
+      <guid>https://www.jensihrig.de/posts/2025/1024-claude-code-migriert-svelte/</guid>
+      <description>&lt;p&gt;Heute durfte Claude Code auch mal etwas coden und nicht nur thailändische Gerichte übersetzen. Mit seiner Hilfe habe ich endlich meine komplette Komponentenbibliothek &lt;a&#xA;  href=&#34;https://khao-ui-tools.github.io/khao-ui/storybook/?path=/docs/about-khao-ui--docs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Khao UI &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; auf die Svelte-5-Syntax migriert. Eine echt langweilige Aufgabe, die ich schon seit Monaten vor mir her schiebe.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Ahaan-Thai MCP als Bundle</title>
       <link>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0100</pubDate>

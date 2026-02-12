@@ -16,6 +16,13 @@
       <description>&lt;p&gt;In den letzten Monaten habe ich mich beruflich wie auch privat intensiv mit KI-Agenten beschäftigt. Dabei habe ich gelernt, dass die Qualität und Ausführlichkeit von Prompts einen enormen Einfluss auf die Qualität der Ergebnisse haben.&lt;/p&gt;&#xA;&lt;p&gt;Ausführliche Prompts direkt in der CLI zu schreiben ist jedoch mühsam. Deshalb habe ich begonnen, Markdown-Dateien mit detaillierten Beschreibungen von Todos im Projekt-Root abzulegen und diese den Agenten als Input zu übergeben. Das wird allerdings schnell unübersichtlich und ist für andere Teammitglieder schwer nachvollziehbar.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Claude Code migriert Svelte</title>
+      <link>https://www.jensihrig.de/posts/2025/1024-claude-code-migriert-svelte/</link>
+      <pubDate>Fri, 24 Oct 2025 20:30:00 +0200</pubDate>
+      <guid>https://www.jensihrig.de/posts/2025/1024-claude-code-migriert-svelte/</guid>
+      <description>&lt;p&gt;Heute durfte Claude Code auch mal etwas coden und nicht nur thailändische Gerichte übersetzen. Mit seiner Hilfe habe ich endlich meine komplette Komponentenbibliothek &lt;a&#xA;  href=&#34;https://khao-ui-tools.github.io/khao-ui/storybook/?path=/docs/about-khao-ui--docs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Khao UI &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; auf die Svelte-5-Syntax migriert. Eine echt langweilige Aufgabe, die ich schon seit Monaten vor mir her schiebe.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Ahaan-Thai MCP als Bundle</title>
       <link>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0100</pubDate>

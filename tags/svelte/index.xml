@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Svelte on Mein FREItag</title>
+    <link>https://www.jensihrig.de/tags/svelte/</link>
+    <description>Recent content in Svelte on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 24 Oct 2025 20:30:00 +0200</lastBuildDate>
+    <atom:link href="https://www.jensihrig.de/tags/svelte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Code migriert Svelte</title>
+      <link>https://www.jensihrig.de/posts/2025/1024-claude-code-migriert-svelte/</link>
+      <pubDate>Fri, 24 Oct 2025 20:30:00 +0200</pubDate>
+      <guid>https://www.jensihrig.de/posts/2025/1024-claude-code-migriert-svelte/</guid>
+      <description>&lt;p&gt;Heute durfte Claude Code auch mal etwas coden und nicht nur thailändische Gerichte übersetzen. Mit seiner Hilfe habe ich endlich meine komplette Komponentenbibliothek &lt;a&#xA;  href=&#34;https://khao-ui-tools.github.io/khao-ui/storybook/?path=/docs/about-khao-ui--docs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Khao UI &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; auf die Svelte-5-Syntax migriert. Eine echt langweilige Aufgabe, die ich schon seit Monaten vor mir her schiebe.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

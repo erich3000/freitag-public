@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Svelte5 on Mein FREItag</title>
+    <link>http://localhost:1414/tags/svelte5/</link>
+    <description>Recent content in Svelte5 on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 24 Oct 2025 20:30:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/svelte5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude migriert Khao UI auf Svelte 5</title>
+      <link>http://localhost:1414/posts/2025/1024-claude-migriert-khao-ui-auf-svelte5/</link>
+      <pubDate>Fri, 24 Oct 2025 20:30:00 +0200</pubDate>
+      <guid>http://localhost:1414/posts/2025/1024-claude-migriert-khao-ui-auf-svelte5/</guid>
+      <description>&lt;p&gt;Heute durfte Claude auch mal etwas coden und nicht nur thailaendische Gerichte uebersetzen. Mit seiner Hilfe habe ich endlich meine komplette Komponentenbibliothek Khao UI auf die Svelte-5-Syntax migriert. Eine langweilige Aufgabe, die ich schon seit Monaten vor mir her schiebe.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
