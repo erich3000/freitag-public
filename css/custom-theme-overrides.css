@@ -33,3 +33,23 @@
 .bilberry-hugo-theme header .titles .title a:hover {
   color: var(--freitag-header-text-hover);
 }
+
+.bilberry-hugo-theme article .content.is-draft {
+  border: 2px dashed #b85d00;
+  border-radius: 8px;
+  background: #fff6eb;
+  margin: 1rem;
+  padding: 1.5rem;
+}
+
+.bilberry-hugo-theme article .content .meta .draft-status {
+  display: inline-block;
+  margin-left: 1rem;
+  padding: 0.2rem 0.5rem;
+  border: 1px solid #b85d00;
+  border-radius: 999px;
+  color: #8a4300;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}

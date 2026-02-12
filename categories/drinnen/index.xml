@@ -51,6 +51,13 @@
       <description>&lt;p&gt;Heute habe ich die Ahaan-Thai MCP-Server als MCP-Bundle (MCPB) veröffentlicht. Meine drei MCP-Server rund ums thailändische Essen können nun als &lt;a&#xA;  href=&#34;https://www.ahaan-thai.de/mcp/ahaan-thai.mcpb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MCP-Bundle &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; heruntergeladen und so ganz einfach in Claude Desktop und andere KI-Produkte, die diesen offenen Standard von Anthropic unterstützen, installiert werden. Auch bei dieser Umsetzung hat mich Claude Code tatkräftig unterstützt.&lt;/p&gt;&#xA;&lt;p&gt;Passend dazu habe ich auf meinem &amp;ldquo;Der Reiskoch&amp;rdquo; Blog auch den Artikel &lt;a&#xA;  href=&#34;https://www.der-reiskoch.de/wissenswertes/kulinarische-intelligenz/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Kulinarische Intelligenz &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; veröffentlicht. In diesem beschreibe ich, wie ich die MCP-Server nicht zur Generierung neuer Inhalte, sondern zur strukturierten Übersetzung meines kompletten Thai-Food-Lexikons eingesetzt habe.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Datenbanken in Obsidian</title>
+      <link>https://www.jensihrig.de/posts/2025/0926-datenbanken-in-obsidian/</link>
+      <pubDate>Fri, 26 Sep 2025 20:30:00 +0100</pubDate>
+      <guid>https://www.jensihrig.de/posts/2025/0926-datenbanken-in-obsidian/</guid>
+      <description>&lt;p&gt;Vor ein paar Wochen wurde für Obsidian das neue Core Plugin &amp;ldquo;Bases&amp;rdquo; veröffentlicht. Dieses stattet die Wissensmanagement-Software mit Datenbank-Funktionalitäten aus. So können Obsidian-Notizen nun tabellarisch und in Form von Karten dargestellt werden. Tabellen und Karten können mit Filtern versehen werden und nach verschiedenen Feldern sortiert werden. Welche Felder angezeigt werden, kann man einfach konfigurieren.&lt;/p&gt;&#xA;&lt;p&gt;Ich habe das Plugin jetzt installiert und meine Rezeptsammlung von Kanban-Boards in eine &amp;ldquo;Bases&amp;rdquo; Datenbank überführt. Die Verwendung von Boards für die Verwaltung der Rezepte war ein Überbleibsel von der Übernahme aus Trello. Das hat keinen Vorteil, sondern nur Druck gebracht (&amp;ldquo;Du musst das jetzt kochen!&amp;rdquo;). Eine durchsuchbare Datenbank-Ansicht macht für die Rezepte viel mehr Sinn.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Ahaan-Thai MCP Server</title>
       <link>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server/</link>
       <pubDate>Fri, 12 Sep 2025 20:30:00 +0100</pubDate>

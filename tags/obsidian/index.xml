@@ -16,6 +16,13 @@
       <description>&lt;p&gt;Ich habe bei der Softwareentwicklung nie wirklich an Sprachsteuerung geglaubt. Das liegt vielleicht auch daran, dass ich immer etwas nuschele. Beim Programmieren müssen einzelne Kommandos und Variablennamen sehr präzise sein, was mit Sprachsteuerung nicht immer gelingt.&lt;/p&gt;&#xA;&lt;p&gt;Das ist nun mit AI-Agenten anders, da sie ja von Haus aus mit geschriebener Sprache arbeiten. Darüber hinaus sind sie bei der Umwandlung von Schrift in Tokens auch recht tolerant und gehen über kleinere Rechtschreibfehler einfach hinweg.&lt;/p&gt;&#xA;&lt;p&gt;Aber auch hier war ich erst skeptisch, als ich von immer mehr Leuten las, dass sie die Agenten per Sprache steuern. Nun habe ich es aber einfach mal ausprobiert, denn sowohl auf macOS als auch auf iOS ist Sprachsteuerung ja direkt ins Betriebssystem integriert.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Datenbanken in Obsidian</title>
+      <link>https://www.jensihrig.de/posts/2025/0926-datenbanken-in-obsidian/</link>
+      <pubDate>Fri, 26 Sep 2025 20:30:00 +0100</pubDate>
+      <guid>https://www.jensihrig.de/posts/2025/0926-datenbanken-in-obsidian/</guid>
+      <description>&lt;p&gt;Vor ein paar Wochen wurde für Obsidian das neue Core Plugin &amp;ldquo;Bases&amp;rdquo; veröffentlicht. Dieses stattet die Wissensmanagement-Software mit Datenbank-Funktionalitäten aus. So können Obsidian-Notizen nun tabellarisch und in Form von Karten dargestellt werden. Tabellen und Karten können mit Filtern versehen werden und nach verschiedenen Feldern sortiert werden. Welche Felder angezeigt werden, kann man einfach konfigurieren.&lt;/p&gt;&#xA;&lt;p&gt;Ich habe das Plugin jetzt installiert und meine Rezeptsammlung von Kanban-Boards in eine &amp;ldquo;Bases&amp;rdquo; Datenbank überführt. Die Verwendung von Boards für die Verwaltung der Rezepte war ein Überbleibsel von der Übernahme aus Trello. Das hat keinen Vorteil, sondern nur Druck gebracht (&amp;ldquo;Du musst das jetzt kochen!&amp;rdquo;). Eine durchsuchbare Datenbank-Ansicht macht für die Rezepte viel mehr Sinn.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Obsidian als Trello Ersatz</title>
       <link>https://www.jensihrig.de/posts/2025/0207-obsidian-als-trello-ersatz/</link>
       <pubDate>Fri, 07 Feb 2025 20:30:00 +0100</pubDate>
