@@ -23,11 +23,25 @@
       <description>&lt;p&gt;Anders als bei Menschen, die bei sich wiederholenden Tätigkeiten mit der Zeit immer besser werden, lassen bei KI-Agenten die Ergebnisse deutlich nach, sobald das Kontextfenster zu klein wird.&lt;/p&gt;&#xA;&lt;p&gt;Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Einträge für mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualität so schnell nachlässt.&lt;/p&gt;&#xA;&lt;p&gt;Die Antwort waren meine MCP-Server: Deren Toolbeschreibungen werden beim Start einer Session komplett in den Kontext geladen. Dadurch nimmt schon der initiale Zustand einen großen Teil des Kontextfensters ein. Je mehr Tools ein MCP-Server anbietet, desto größer ist diese Kontextverschwendung.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Sprachsteuerung</title>
+      <link>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</link>
+      <pubDate>Fri, 23 Jan 2026 20:30:00 +0100</pubDate>
+      <guid>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</guid>
+      <description>&lt;p&gt;Ich habe bei der Softwareentwicklung nie wirklich an Sprachsteuerung geglaubt. Das liegt vielleicht auch daran, dass ich immer etwas nuschele. Beim Programmieren müssen einzelne Kommandos und Variablennamen sehr präzise sein, was mit Sprachsteuerung nicht immer gelingt.&lt;/p&gt;&#xA;&lt;p&gt;Das ist nun mit AI-Agenten anders, da sie ja von Haus aus mit geschriebener Sprache arbeiten. Darüber hinaus sind sie bei der Umwandlung von Schrift in Tokens auch recht tolerant und gehen über kleinere Rechtschreibfehler einfach hinweg.&lt;/p&gt;&#xA;&lt;p&gt;Aber auch hier war ich erst skeptisch, als ich von immer mehr Leuten las, dass sie die Agenten per Sprache steuern. Nun habe ich es aber einfach mal ausprobiert, denn sowohl auf macOS als auch auf iOS ist Sprachsteuerung ja direkt ins Betriebssystem integriert.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Spaziergang an der Dreisam</title>
       <link>https://www.jensihrig.de/posts/2026/0116-spaziergang/</link>
       <pubDate>Fri, 16 Jan 2026 20:30:00 +0100</pubDate>
       <guid>https://www.jensihrig.de/posts/2026/0116-spaziergang/</guid>
       <description>&lt;p&gt;Heute war das Wetter zum ersten Mal im neuen Jahr so, dass ich auch Lust hatte, mal rauszugehen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chilis und Nudeln</title>
+      <link>https://www.jensihrig.de/posts/2026/0109-chilis-und-nudeln/</link>
+      <pubDate>Fri, 09 Jan 2026 20:30:00 +0100</pubDate>
+      <guid>https://www.jensihrig.de/posts/2026/0109-chilis-und-nudeln/</guid>
+      <description>&lt;p&gt;Besonders schön ist der FREItag, wenn man an diesem Tag auch noch Geburtstag hat. Noch schöner wird das Ganze, wenn an diesem Tag ein alter Freund und mein Kochkumpane zu Besuch ist, um das ganze Wochenende mit einem zu kochen. So haben wir heute Crispy Chili Oil selbst zubereitet und diverse &lt;a&#xA;  href=&#34;https://www.der-reiskoch.de/wissenswertes/sichuan-food-wochenende/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Sichuan-Gerichte &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; gekocht, zu denen es selbst gemachte Nudeln als Beilage gab.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code migriert Svelte</title>

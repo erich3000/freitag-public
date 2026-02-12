@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Besuch on Mein FREItag</title>
+    <link>http://localhost:1414/tags/besuch/</link>
+    <description>Recent content in Besuch on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 09 Jan 2026 20:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/besuch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fischi zu Besuch</title>
+      <link>http://localhost:1414/posts/2026/0109-fischi-zu-besuch/</link>
+      <pubDate>Fri, 09 Jan 2026 20:30:00 +0100</pubDate>
+      <guid>http://localhost:1414/posts/2026/0109-fischi-zu-besuch/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

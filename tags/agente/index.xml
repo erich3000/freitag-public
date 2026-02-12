@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agente on Mein FREItag</title>
+    <link>http://localhost:1414/tags/agente/</link>
+    <description>Recent content in Agente on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 23 Jan 2026 20:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/agente/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sprachsteuerung</title>
+      <link>http://localhost:1414/posts/2026/0123-sprachsteuerung/</link>
+      <pubDate>Fri, 23 Jan 2026 20:30:00 +0100</pubDate>
+      <guid>http://localhost:1414/posts/2026/0123-sprachsteuerung/</guid>
+      <description>&lt;p&gt;Ich habe bei der Softwareentwicklung nie wirklich an Sprachsteuerung geglaubt. Das liegt vielleicht auch daran, dass ich immer etwas nuschele. Beim Programmieren muessen einzelne Kommandos und Variablennamen sehr praezise sein, was mit Sprachsteuerung nicht immer gelingt.&lt;/p&gt;&#xA;&lt;p&gt;Das ist nun mit Ai Age&lt;/p&gt;&#xA;&lt;p&gt;Ist das nun mit Agent-Skills, die mit gesprochener Sprache arbeiten oder durch gesprochene Sprache definiert werden, anders? Und hilft dabei die Tatsache, dass KI-Agenten kleinere Rechtschreibfehler oft tolerieren, weil sie Sprache in interne Formate umwandeln?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

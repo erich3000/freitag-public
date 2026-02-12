@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Draußem on Mein FREItag</title>
+    <link>http://localhost:1414/categories/drau%C3%9Fem/</link>
+    <description>Recent content in Draußem on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 23 Jan 2026 20:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/categories/drau%C3%9Fem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sprachsteuerung</title>
+      <link>http://localhost:1414/posts/2026/0123-sprachsteuerung/</link>
+      <pubDate>Fri, 23 Jan 2026 20:30:00 +0100</pubDate>
+      <guid>http://localhost:1414/posts/2026/0123-sprachsteuerung/</guid>
+      <description>&lt;p&gt;Ich habe bei der Softwareentwicklung nie wirklich an Sprachsteuerung geglaubt. Das liegt vielleicht auch daran, dass ich immer etwas nuschele. Beim Programmieren muessen einzelne Kommandos und Variablennamen sehr praezise sein, was mit Sprachsteuerung nicht immer gelingt.&lt;/p&gt;&#xA;&lt;p&gt;Das ist nun mit AI-Agenten anders, da sie ja von Haus aus mit geschriebener Sprache arbeiten. Darüber hinaus sind sie bei der Umwandlung von Schrift in Tokens auch recht tolerant und gehen über kleinere Rechtschreibfehler einfach hinweg.&lt;/p&gt;&#xA;&lt;p&gt;Aber auch hier war ich erst skeptisch als ich von immer mehr Leuten las, dass sie die Agenten per Sprache steuern. Nun habe es aber einfach mal ausprobiert, denn sowohl auf macOS als auch auf iOS ist Sprachsteuerung ja direkt ins Betriebssystem integriert. So habe ich nun zu Hause, wo ich mir dabei manchmal etwas komisch vorkomme, aber auch unterwegs angefangen, Texte in Obsidian zu diktieren, die ich später einfach in Prompts ueberfuehren kann. Und zu meiner Ueberraschung funktioniert das erstaunlich gut.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

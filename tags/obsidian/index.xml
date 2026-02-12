@@ -6,8 +6,15 @@
     <description>Recent content in Obsidian on Mein FREItag</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 07 Feb 2025 20:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 20:30:00 +0100</lastBuildDate>
     <atom:link href="https://www.jensihrig.de/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sprachsteuerung</title>
+      <link>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</link>
+      <pubDate>Fri, 23 Jan 2026 20:30:00 +0100</pubDate>
+      <guid>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</guid>
+      <description>&lt;p&gt;Ich habe bei der Softwareentwicklung nie wirklich an Sprachsteuerung geglaubt. Das liegt vielleicht auch daran, dass ich immer etwas nuschele. Beim Programmieren müssen einzelne Kommandos und Variablennamen sehr präzise sein, was mit Sprachsteuerung nicht immer gelingt.&lt;/p&gt;&#xA;&lt;p&gt;Das ist nun mit AI-Agenten anders, da sie ja von Haus aus mit geschriebener Sprache arbeiten. Darüber hinaus sind sie bei der Umwandlung von Schrift in Tokens auch recht tolerant und gehen über kleinere Rechtschreibfehler einfach hinweg.&lt;/p&gt;&#xA;&lt;p&gt;Aber auch hier war ich erst skeptisch, als ich von immer mehr Leuten las, dass sie die Agenten per Sprache steuern. Nun habe ich es aber einfach mal ausprobiert, denn sowohl auf macOS als auch auf iOS ist Sprachsteuerung ja direkt ins Betriebssystem integriert.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Obsidian als Trello Ersatz</title>
       <link>https://www.jensihrig.de/posts/2025/0207-obsidian-als-trello-ersatz/</link>
