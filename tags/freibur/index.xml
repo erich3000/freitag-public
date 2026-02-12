@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freibur on Mein FREItag</title>
+    <link>http://localhost:1414/tags/freibur/</link>
+    <description>Recent content in Freibur on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 16 Jan 2026 20:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/freibur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spaziergang an der Dreisam</title>
+      <link>http://localhost:1414/posts/2026/0116-spaziergang/</link>
+      <pubDate>Fri, 16 Jan 2026 20:30:00 +0100</pubDate>
+      <guid>http://localhost:1414/posts/2026/0116-spaziergang/</guid>
+      <description>&lt;p&gt;Heute war das Wetter zum ersten Mal im neuen Jahr so, dass ich auch Lust hatte, mal rauszugehen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
