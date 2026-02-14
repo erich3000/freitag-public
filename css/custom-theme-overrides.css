@@ -1,10 +1,20 @@
 :root {
-  --freitag-header-bg: #5c8b59;
-  --freitag-header-text: #f1f7f1;
+  --freitag-sys-color-primary: #5c8b59;
+  --freitag-sys-color-secondary: #39533f;
+  --freitag-sys-text-on-dark-bg: #f1f7f1;
+
+  --freitag-header-bg: var(--freitag-sys-color-primary);
+  --freitag-header-text: var(--freitag-sys-text-on-dark-bg);
   --freitag-header-text-hover: #48694e;
-  --freitag-nav-bg: #39533f;
+
+  --freitag-nav-bg: var(--freitag-sys-color-secondary);
   --freitag-nav-hover-bg: #48694e;
-  --freitag-nav-text: #f1f7f1;
+  --freitag-nav-text: var(--freitag-sys-text-on-dark-bg);
+
+  --freitag-cta-bg: var(--freitag-sys-color-primary);
+  --freitag-cta-text: var(--freitag-sys-text-on-dark-bg);
+  --freitag-cta-hover-bg: #48694e;
+  --freitag-cta-hover-text: var(--freitag-sys-text-on-dark-bg);
 }
 
 .bilberry-hugo-theme header {
@@ -14,6 +24,17 @@
 .bilberry-hugo-theme header .toggler {
   background: var(--freitag-nav-bg);
   color: var(--freitag-nav-text);
+  border: 0;
+  border-radius: 0 0 4px 4px;
+  appearance: none;
+  font: inherit;
+}
+
+.bilberry-hugo-theme header .toggler:hover,
+.bilberry-hugo-theme header .toggler:focus,
+.bilberry-hugo-theme header .toggler:focus-visible {
+  background: var(--freitag-nav-hover-bg);
+  color: var(--freitag-nav-text);
 }
 
 .bilberry-hugo-theme nav {
@@ -21,7 +42,8 @@
   color: var(--freitag-nav-text);
 }
 
-.bilberry-hugo-theme nav ul li a:hover {
+.bilberry-hugo-theme nav ul li a:hover,
+.bilberry-hugo-theme nav ul li a:focus {
   color: inherit;
   background-color: var(--freitag-nav-hover-bg);
 }
@@ -30,8 +52,32 @@
   color: var(--freitag-header-text);
 }
 
-.bilberry-hugo-theme header .titles .title a:hover {
+.bilberry-hugo-theme header .titles .title a:hover,
+.bilberry-hugo-theme header .titles .title a:focus {
   color: var(--freitag-header-text-hover);
+}
+
+.bilberry-hugo-theme article .content a.cta-link {
+  display: inline-block;
+  padding: 0.8em 1.4em;
+  border-radius: 4px;
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--freitag-cta-text);
+  background-color: var(--freitag-cta-bg);
+  transition: all 0.3s ease-in-out;
+}
+
+.bilberry-hugo-theme article .content a.cta-link:hover,
+.bilberry-hugo-theme article .content a.cta-link:focus {
+  color: var(--freitag-cta-hover-text);
+  background-color: var(--freitag-cta-hover-bg);
+  text-decoration: none;
+}
+
+.bilberry-hugo-theme article .content a.cta-link:focus-visible {
+  outline: 2px solid var(--freitag-cta-hover-bg);
+  outline-offset: 2px;
 }
 
 .bilberry-hugo-theme article .content.is-draft {

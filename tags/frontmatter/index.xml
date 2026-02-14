@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontmatter on Mein FREItag</title>
+    <link>http://localhost:1414/tags/frontmatter/</link>
+    <description>Recent content in Frontmatter on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 13 Feb 2026 20:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/frontmatter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frühjahrsputz im Markdown-Wald</title>
+      <link>http://localhost:1414/posts/2026/0213-fruehjahrsputz-im-markdown-wald/</link>
+      <pubDate>Fri, 13 Feb 2026 20:30:00 +0100</pubDate>
+      <guid>http://localhost:1414/posts/2026/0213-fruehjahrsputz-im-markdown-wald/</guid>
+      <description>&lt;p&gt;Schon im September letzten Jahres hatte ich meine Rezeptsammlung in Obsidian in eine Base-Datenbank überführt. Ich muss aber zugeben, dass ich seither noch nicht viel gemacht habe, um eine bessere Auffindbarkeit einzelner Rezepte zu ermöglichen. Zu mühsam erschien es mir, Tags per Hand zu vergeben und die sogenannten Properties in Obsidian zu setzen. So vegetierte die Sammlung genauso unbenutzt vor sich hin, wie sie es zuvor schon auf Trello getan hat.&lt;/p&gt;&#xA;&lt;p&gt;Vor kurzem las ich dann auf &lt;code&gt;medium.com&lt;/code&gt;, dass es ein Claude Plugin nut Agent-Skills für Obsidian gibt, das unter anderem Skills für Base-Verwaltung und Markdown-Formatierung bereitstellen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

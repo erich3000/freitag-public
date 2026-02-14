@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claude on Mein FREItag</title>
+    <link>http://localhost:1414/tags/claude/</link>
+    <description>Recent content in Claude on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/claude/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ahaan-Thai MCP als Bundle</title>
+      <link>http://localhost:1414/posts/2025/1017-ahaan-thai-mcp-als-bundle/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1414/posts/2025/1017-ahaan-thai-mcp-als-bundle/</guid>
+      <description>&lt;p&gt;Heute habe ich die Ahaan-Thai MCP-Server als MCP-Bundle (MCPB) veröffentlicht. Meine drei MCP-Server rund ums thailändische Essen können nun als MCP-Bundle heruntergeladen und so ganz einfach in Claude Desktop und andere KI-Produkte, die diesen offenen Standard von Anthropic unterstützen, installiert werden. Auch bei dieser Umsetzung hat mich Claude Code tatkräftig unterstützt.&lt;/p&gt;&#xA;&lt;p&gt;Passend dazu habe ich auf meinem &amp;ldquo;Der Reiskoch&amp;rdquo; Blog auch den Artikel &lt;a&#xA;  href=&#34;https://www.der-reiskoch.de/wissenswertes/kulinarische-intelligenz/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Kulinarische Intelligenz &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; veröffentlicht. In diesem beschreibe ich, wie ich die MCP-Server nicht zur Generierung neuer Inhalte, sondern zur strukturierten Übersetzung meines kompletten Thai-Food-Lexikons eingesetzt habe.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

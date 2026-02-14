@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on Mein FREItag</title>
-    <link>https://www.jensihrig.de/tags/markdown/</link>
+    <link>http://localhost:1414/tags/markdown/</link>
     <description>Recent content in Markdown on Mein FREItag</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 07 Feb 2025 20:30:00 +0100</lastBuildDate>
-    <atom:link href="https://www.jensihrig.de/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Feb 2026 20:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Obsidian als Trello Ersatz</title>
-      <link>https://www.jensihrig.de/posts/2025/0207-obsidian-als-trello-ersatz/</link>
-      <pubDate>Fri, 07 Feb 2025 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2025/0207-obsidian-als-trello-ersatz/</guid>
-      <description>&lt;p&gt;Vor Kurzem habe ich auf medium.com wieder mehrere Artikel ueber die Personal-Knowledge-Management-Software &amp;ldquo;Obsidian&amp;rdquo; gelesen und mir die Software endlich installiert. Ich war sofort begeistert, vor allem weil Obsidian auf Markdown setzt. Dieses Format verwende ich seit Jahren, um Artikel und Rezepte fuer meinen Hugo-basierten Blog zu schreiben.&lt;/p&gt;&#xA;&lt;p&gt;Die Markdown-Dateien liegen nicht in irgendeiner Cloud, sondern lokal auf meinem Rechner. Ich kann sie sowohl mit Obsidian als auch mit einem normalen Texteditor bearbeiten. Ausserdem kann ich sie mit Obsidian Sync auf weitere Rechner und mobile Geraete abgleichen.&lt;/p&gt;</description>
+      <title>Fruehjahrsputz im Markdown-Wald</title>
+      <link>http://localhost:1414/posts/2026/0213-fruehjahrsputz-im-markdown-wald/</link>
+      <pubDate>Fri, 13 Feb 2026 20:30:00 +0100</pubDate>
+      <guid>http://localhost:1414/posts/2026/0213-fruehjahrsputz-im-markdown-wald/</guid>
+      <description>&lt;p&gt;Schon im September letzten Jahres habe ich meine Rezeptsammlung in eine Base-Datenbank ueberfuehrt. Ich muss aber zugeben, dass ich bisher noch nicht viel gemacht habe, um eine bessere Auffindbarkeit einzelner Rezepte zu gewaehrleisten.&lt;/p&gt;&#xA;&lt;p&gt;Zu muehsam erschien es mir, Tags per Hand zu vergeben und die sogenannten Properties in Obsidian zu setzen. So vegetierte die Sammlung genauso unbenutzt vor sich hin, wie sie es schon auf Trello getan hat.&lt;/p&gt;&#xA;&lt;p&gt;Vor kurzem las ich auf medium.com, dass es eine Sammlung von Agent-Skills fuer Obsidian gibt, die Skills fuer Base-Verwaltung und Markdown-Formatierung bereitstellen.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

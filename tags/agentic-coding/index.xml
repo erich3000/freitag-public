@@ -30,13 +30,6 @@
       <description>&lt;p&gt;Ich habe bei der Softwareentwicklung nie wirklich an Sprachsteuerung geglaubt. Das liegt vielleicht auch daran, dass ich immer etwas nuschele. Beim Programmieren müssen einzelne Kommandos und Variablennamen sehr präzise sein, was mit Sprachsteuerung nicht immer gelingt.&lt;/p&gt;&#xA;&lt;p&gt;Das ist nun mit AI-Agenten anders, da sie ja von Haus aus mit geschriebener Sprache arbeiten. Darüber hinaus sind sie bei der Umwandlung von Schrift in Tokens auch recht tolerant und gehen über kleinere Rechtschreibfehler einfach hinweg.&lt;/p&gt;&#xA;&lt;p&gt;Aber auch hier war ich erst skeptisch, als ich von immer mehr Leuten las, dass sie die Agenten per Sprache steuern. Nun habe ich es aber einfach mal ausprobiert, denn sowohl auf macOS als auch auf iOS ist Sprachsteuerung ja direkt ins Betriebssystem integriert.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ahaan-Thai MCP als Bundle</title>
-      <link>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</link>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</guid>
-      <description>&lt;p&gt;Heute habe ich die Ahaan-Thai MCP-Server als MCP-Bundle (MCPB) veröffentlicht. Meine drei MCP-Server rund ums thailändische Essen können nun als &lt;a&#xA;  href=&#34;https://www.ahaan-thai.de/mcp/ahaan-thai.mcpb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MCP-Bundle &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; heruntergeladen und so ganz einfach in Claude Desktop und andere KI-Produkte, die diesen offenen Standard von Anthropic unterstützen, installiert werden. Auch bei dieser Umsetzung hat mich Claude Code tatkräftig unterstützt.&lt;/p&gt;&#xA;&lt;p&gt;Passend dazu habe ich auf meinem &amp;ldquo;Der Reiskoch&amp;rdquo; Blog auch den Artikel &lt;a&#xA;  href=&#34;https://www.der-reiskoch.de/wissenswertes/kulinarische-intelligenz/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Kulinarische Intelligenz &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; veröffentlicht. In diesem beschreibe ich, wie ich die MCP-Server nicht zur Generierung neuer Inhalte, sondern zur strukturierten Übersetzung meines kompletten Thai-Food-Lexikons eingesetzt habe.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Ahaan-Thai MCP Server</title>
       <link>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server/</link>
       <pubDate>Fri, 12 Sep 2025 20:30:00 +0100</pubDate>

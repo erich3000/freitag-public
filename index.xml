@@ -5,10 +5,20 @@
     <description>Recent content on Mein FREItag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 06 Feb 2026 20:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 20:30:00 +0100</lastBuildDate>
     
         <atom:link href="https://www.jensihrig.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Frühjahrsputz im Markdown-Wald</title>
+      <link>https://www.jensihrig.de/posts/2026/0213-fruehjahrsputz-im-markdown-wald/</link>
+      <pubDate>Fri, 13 Feb 2026 20:30:00 +0100</pubDate>
+      
+      <guid>https://www.jensihrig.de/posts/2026/0213-fruehjahrsputz-im-markdown-wald/</guid>
+      <description>&lt;p&gt;Schon im September letzten Jahres hatte ich meine Rezeptsammlung in Obsidian in eine Base-Datenbank überführt. Ich muss aber zugeben, dass ich seither noch nicht viel gemacht habe, um eine bessere Auffindbarkeit einzelner Rezepte zu ermöglichen. Zu mühsam erschien es mir, Tags per Hand zu vergeben und die sogenannten Properties in Obsidian zu setzen. So vegetierte die Sammlung genauso unbenutzt vor sich hin, wie sie es zuvor schon auf Trello getan hat.&lt;/p&gt;
+&lt;p&gt;Vor kurzem las ich dann auf &lt;code&gt;medium.com&lt;/code&gt;, dass es ein Claude-Plugin mit Agent-Skills für Obsidian gibt, das unter anderem Skills für Base-Verwaltung und Markdown-Formatierung bereitstellt.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>/agent-todos und /skill-teaching</title>
@@ -68,9 +78,11 @@
       <pubDate>Fri, 24 Oct 2025 20:30:00 +0200</pubDate>
       
       <guid>https://www.jensihrig.de/posts/2025/1024-claude-code-migriert-svelte/</guid>
-      <description>&lt;p&gt;Heute durfte Claude Code auch mal etwas coden und nicht nur thailändische Gerichte übersetzen. Mit seiner Hilfe habe ich endlich meine komplette Komponentenbibliothek &lt;a
-  href=&#34;https://khao-ui-tools.github.io/khao-ui/storybook/?path=/docs/about-khao-ui--docs&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Khao UI &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
- auf die Svelte-5-Syntax migriert. Eine echt langweilige Aufgabe, die ich schon seit Monaten vor mir her schiebe.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Heute durfte Claude Code auch mal etwas coden, und nicht nur Markdown-Dateien durch die Gegend schieben oder thailändische Gerichte übersetzen.&lt;/p&gt;
+&lt;p&gt;Mit der Hilfe des Agents habe ich endlich meine komplette Komponentenbibliothek &lt;code&gt;Khao UI&lt;/code&gt; auf die Svelte-5-Syntax migriert. Eine wirklich langweilige Aufgabe, die ich schon seit Monaten vor mir her schiebe.&lt;/p&gt;
+&lt;p&gt;&lt;a
+  href=&#34;https://khao-ui-tools.github.io/khao-ui/storybook/?path=/docs/about-khao-ui--docs&#34; class=&#34;cta-link&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Khao UI &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -79,9 +91,7 @@
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0100</pubDate>
       
       <guid>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</guid>
-      <description>&lt;p&gt;Heute habe ich die Ahaan-Thai MCP-Server als MCP-Bundle (MCPB) veröffentlicht. Meine drei MCP-Server rund ums thailändische Essen können nun als &lt;a
-  href=&#34;https://www.ahaan-thai.de/mcp/ahaan-thai.mcpb&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;MCP-Bundle &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
- heruntergeladen und so ganz einfach in Claude Desktop und andere KI-Produkte, die diesen offenen Standard von Anthropic unterstützen, installiert werden. Auch bei dieser Umsetzung hat mich Claude Code tatkräftig unterstützt.&lt;/p&gt;
+      <description>&lt;p&gt;Heute habe ich die Ahaan-Thai MCP-Server als MCP-Bundle (MCPB) veröffentlicht. Meine drei MCP-Server rund ums thailändische Essen können nun als MCP-Bundle heruntergeladen und so ganz einfach in Claude Desktop und andere KI-Produkte, die diesen offenen Standard von Anthropic unterstützen, installiert werden. Auch bei dieser Umsetzung hat mich Claude Code tatkräftig unterstützt.&lt;/p&gt;
 &lt;p&gt;Passend dazu habe ich auf meinem &amp;ldquo;Der Reiskoch&amp;rdquo; Blog auch den Artikel &lt;a
   href=&#34;https://www.der-reiskoch.de/wissenswertes/kulinarische-intelligenz/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Kulinarische Intelligenz &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
  veröffentlicht. In diesem beschreibe ich, wie ich die MCP-Server nicht zur Generierung neuer Inhalte, sondern zur strukturierten Übersetzung meines kompletten Thai-Food-Lexikons eingesetzt habe.&lt;/p&gt;</description>
