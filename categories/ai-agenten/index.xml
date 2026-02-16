@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ai-Agenten on Mein FREItag</title>
-    <link>https://www.jensihrig.de/categories/ai-agenten/</link>
+    <link>http://localhost:1414/categories/ai-agenten/</link>
     <description>Recent content in Ai-Agenten on Mein FREItag</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <lastBuildDate>Fri, 13 Feb 2026 20:30:00 +0100</lastBuildDate>
-    <atom:link href="https://www.jensihrig.de/categories/ai-agenten/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1414/categories/ai-agenten/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frühjahrsputz im Markdown-Wald</title>
-      <link>https://www.jensihrig.de/posts/2026/0213-fruehjahrsputz-im-markdown-wald/</link>
+      <link>http://localhost:1414/posts/2026/0213-fruehjahrsputz-im-markdown-wald/</link>
       <pubDate>Fri, 13 Feb 2026 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2026/0213-fruehjahrsputz-im-markdown-wald/</guid>
+      <guid>http://localhost:1414/posts/2026/0213-fruehjahrsputz-im-markdown-wald/</guid>
       <description>&lt;p&gt;Schon im September letzten Jahres hatte ich meine Rezeptsammlung in Obsidian in eine Base-Datenbank überführt. Ich muss aber zugeben, dass ich seither noch nicht viel gemacht habe, um eine bessere Auffindbarkeit einzelner Rezepte zu ermöglichen. Zu mühsam erschien es mir, Tags per Hand zu vergeben und die sogenannten Properties in Obsidian zu setzen. So vegetierte die Sammlung genauso unbenutzt vor sich hin, wie sie es zuvor schon auf Trello getan hat.&lt;/p&gt;&#xA;&lt;p&gt;Vor kurzem las ich dann auf &lt;code&gt;medium.com&lt;/code&gt;, dass es ein Claude-Plugin mit Agent-Skills für Obsidian gibt, das unter anderem Skills für Base-Verwaltung und Markdown-Formatierung bereitstellt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>/agent-todos und /skill-teaching</title>
-      <link>https://www.jensihrig.de/posts/2026/0206-ji-skills-plugin/</link>
+      <link>http://localhost:1414/posts/2026/0206-ji-skills-plugin/</link>
       <pubDate>Fri, 06 Feb 2026 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2026/0206-ji-skills-plugin/</guid>
+      <guid>http://localhost:1414/posts/2026/0206-ji-skills-plugin/</guid>
       <description>&lt;p&gt;In den letzten Monaten habe ich mich beruflich wie auch privat intensiv mit KI-Agenten beschäftigt. Dabei habe ich gelernt, dass die Qualität und Ausführlichkeit von Prompts einen enormen Einfluss auf die Qualität der Ergebnisse haben.&lt;/p&gt;&#xA;&lt;p&gt;Ausführliche Prompts direkt in der CLI zu schreiben ist jedoch mühsam. Deshalb habe ich begonnen, Markdown-Dateien mit detaillierten Beschreibungen von Todos im Projekt-Root abzulegen und diese den Agenten als Input zu übergeben. Das wird allerdings schnell unübersichtlich und ist für andere Teammitglieder schwer nachvollziehbar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tokens sparen durch Skills</title>
-      <link>https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/</link>
+      <link>http://localhost:1414/posts/2026/0130-kontext-tokens-sparen-durch-skills/</link>
       <pubDate>Fri, 30 Jan 2026 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/</guid>
+      <guid>http://localhost:1414/posts/2026/0130-kontext-tokens-sparen-durch-skills/</guid>
       <description>&lt;p&gt;Anders als bei Menschen, die bei sich wiederholenden Tätigkeiten mit der Zeit immer besser werden, lassen bei KI-Agenten die Ergebnisse deutlich nach, sobald das Kontextfenster zu klein wird.&lt;/p&gt;&#xA;&lt;p&gt;Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Einträge für mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualität so schnell nachlässt.&lt;/p&gt;&#xA;&lt;p&gt;Die Antwort waren meine MCP-Server: Deren Toolbeschreibungen werden beim Start einer Session komplett in den Kontext geladen. Dadurch nimmt schon der initiale Zustand einen großen Teil des Kontextfensters ein. Je mehr Tools ein MCP-Server anbietet, desto größer ist diese Kontextverschwendung.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sprachsteuerung</title>
-      <link>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</link>
+      <link>http://localhost:1414/posts/2026/0123-sprachsteuerung/</link>
       <pubDate>Fri, 23 Jan 2026 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</guid>
+      <guid>http://localhost:1414/posts/2026/0123-sprachsteuerung/</guid>
       <description>&lt;p&gt;Ich habe bei der Softwareentwicklung nie wirklich an Sprachsteuerung geglaubt. Das liegt vielleicht auch daran, dass ich immer etwas nuschele. Beim Programmieren müssen einzelne Kommandos und Variablennamen sehr präzise sein, was mit Sprachsteuerung nicht immer gelingt.&lt;/p&gt;&#xA;&lt;p&gt;Das ist nun mit AI-Agenten anders, da sie ja von Haus aus mit geschriebener Sprache arbeiten. Darüber hinaus sind sie bei der Umwandlung von Schrift in Tokens auch recht tolerant und gehen über kleinere Rechtschreibfehler einfach hinweg.&lt;/p&gt;&#xA;&lt;p&gt;Aber auch hier war ich erst skeptisch, als ich von immer mehr Leuten las, dass sie die Agenten per Sprache steuern. Nun habe ich es aber einfach mal ausprobiert, denn sowohl auf macOS als auch auf iOS ist Sprachsteuerung ja direkt ins Betriebssystem integriert.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code migriert Svelte</title>
-      <link>https://www.jensihrig.de/posts/2025/1024-claude-code-migriert-svelte/</link>
+      <link>http://localhost:1414/posts/2025/1024-claude-code-migriert-svelte/</link>
       <pubDate>Fri, 24 Oct 2025 20:30:00 +0200</pubDate>
-      <guid>https://www.jensihrig.de/posts/2025/1024-claude-code-migriert-svelte/</guid>
+      <guid>http://localhost:1414/posts/2025/1024-claude-code-migriert-svelte/</guid>
       <description>&lt;p&gt;Heute durfte Claude Code auch mal etwas coden, und nicht nur Markdown-Dateien durch die Gegend schieben oder thailändische Gerichte übersetzen.&lt;/p&gt;&#xA;&lt;p&gt;Mit der Hilfe des Agents habe ich endlich meine komplette Komponentenbibliothek &lt;code&gt;Khao UI&lt;/code&gt; auf die Svelte-5-Syntax migriert. Eine wirklich langweilige Aufgabe, die ich schon seit Monaten vor mir her schiebe.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;  href=&#34;https://khao-ui-tools.github.io/khao-ui/storybook/?path=/docs/about-khao-ui--docs&#34; class=&#34;cta-link&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Khao UI &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ahaan-Thai MCP als Bundle</title>
-      <link>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</link>
+      <link>http://localhost:1414/posts/2025/1017-ahaan-thai-mcp-als-bundle/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</guid>
+      <guid>http://localhost:1414/posts/2025/1017-ahaan-thai-mcp-als-bundle/</guid>
       <description>&lt;p&gt;Heute habe ich die Ahaan-Thai MCP-Server als MCP-Bundle (MCPB) veröffentlicht. Meine drei MCP-Server rund ums thailändische Essen können nun als MCP-Bundle heruntergeladen und so ganz einfach in Claude Desktop und andere KI-Produkte, die diesen offenen Standard von Anthropic unterstützen, installiert werden. Auch bei dieser Umsetzung hat mich Claude Code tatkräftig unterstützt.&lt;/p&gt;&#xA;&lt;p&gt;Passend dazu habe ich auf meinem &amp;ldquo;Der Reiskoch&amp;rdquo; Blog auch den Artikel &lt;a&#xA;  href=&#34;https://www.der-reiskoch.de/wissenswertes/kulinarische-intelligenz/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Kulinarische Intelligenz &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; veröffentlicht. In diesem beschreibe ich, wie ich die MCP-Server nicht zur Generierung neuer Inhalte, sondern zur strukturierten Übersetzung meines kompletten Thai-Food-Lexikons eingesetzt habe.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ahaan-Thai MCP Server</title>
-      <link>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server/</link>
+      <link>http://localhost:1414/posts/2025/0912-ahaan-thai-mcp-server/</link>
       <pubDate>Fri, 12 Sep 2025 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server/</guid>
+      <guid>http://localhost:1414/posts/2025/0912-ahaan-thai-mcp-server/</guid>
       <description>&lt;p&gt;Nachdem sich der Thai-Food-Dictionary MCP Server beim Übersetzen sehr gut bewährt hat, habe ich noch zwei weitere Server für meine Kochbuchsammlung (&lt;code&gt;thai-cook-book-library&lt;/code&gt;) und das gesamte Thai Food Lexikon (&lt;code&gt;thai-food-encyclopedia&lt;/code&gt;) zur Verfügung gestellt. Auch diese wurden von Claude Code mehr oder weniger selbst entwickelt; dabei wurde der bestehende Server noch einmal komplett refactored.&lt;/p&gt;&#xA;&lt;p&gt;Mit diesen beiden Servern sowie dem bereits bestehenden Übersetzungsserver habe ich das Importieren von Rezepten aus Kochbüchern in das Thai-Food-Lexikon &lt;a&#xA;  href=&#34;https://www.ahaan-thai.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ahaan-thai.de &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; halb automatisiert. Ich kann Seiten abfotografieren, und Claude Desktop, das ebenfalls auf die MCP-Server zugreifen kann, liest die Bilddateien ein, findet standardisierte Transkriptionen oder übersetzt die thailändischen Namen und gleicht die Daten anschließend mit dem bestehenden Lexikon ab.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thai Food Dictionary MCP Server</title>
-      <link>https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/</link>
+      <link>http://localhost:1414/posts/2025/0822-thai-food-dictionary-mcp-server/</link>
       <pubDate>Fri, 22 Aug 2025 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/</guid>
+      <guid>http://localhost:1414/posts/2025/0822-thai-food-dictionary-mcp-server/</guid>
       <description>&lt;p&gt;Vor ein paar Monaten hatte ich angefangen, mein Thai-Food-Lexikon &lt;a&#xA;  href=&#34;https://www.ahaan-thai.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ahaan-thai.de &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; ins Englische zu übersetzen. Das Übersetzen der Markdown-Dateien, die Hugo dann als HTML rendert, habe ich anfangs noch mit deepl.com gemacht, bevor ich auf Claude Code umgestiegen bin. Das Übersetzen an sich hat damit auch sehr gut funktioniert, nur die unterschiedlichen Transkriptionen im Deutschen und im Englischen waren immer wieder ein Problem.&lt;/p&gt;&#xA;&lt;p&gt;Da ich in dem Lexikon auch ein Thai-deutsches Wörterbuch für Begriffe rund ums Essen bereitstelle, kam mir die Idee, dieses per &lt;a&#xA;  href=&#34;https://www.ahaan-thai.de/api/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;API &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; (naja, wenn man ehrlich ist, ist es nicht mehr als ein JSON-Dump) verfügbar zu machen. Diese API habe ich wiederum per Model Context Protocol für Claude verfügbar gemacht. So kann der KI-Agent nun auf meine standardisierten Transkriptionen zugreifen und viele thailändische Wörter übersetzen. Der Clou dabei ist, dass Claude Code sowohl die Schnittstellen als auch den MCP selbst entwickelt hat.&lt;/p&gt;</description>
     </item>
   </channel>
