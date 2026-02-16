@@ -16,8 +16,7 @@
       <pubDate>Fri, 13 Feb 2026 20:30:00 +0100</pubDate>
       
       <guid>https://www.jensihrig.de/posts/2026/0213-fruehjahrsputz-im-markdown-wald/</guid>
-      <description>&lt;p&gt;Schon im September letzten Jahres hatte ich meine Rezeptsammlung in Obsidian in eine Base-Datenbank überführt. Ich muss aber zugeben, dass ich seither noch nicht viel gemacht habe, um eine bessere Auffindbarkeit einzelner Rezepte zu ermöglichen. Zu mühsam erschien es mir, Tags per Hand zu vergeben und die sogenannten Properties in Obsidian zu setzen. So vegetierte die Sammlung genauso unbenutzt vor sich hin, wie sie es zuvor schon auf Trello getan hat.&lt;/p&gt;
-&lt;p&gt;Vor kurzem las ich dann auf &lt;code&gt;medium.com&lt;/code&gt;, dass es ein Claude-Plugin mit Agent-Skills für Obsidian gibt, das unter anderem Skills für Base-Verwaltung und Markdown-Formatierung bereitstellt.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Schon im September letzten Jahres hatte ich meine Rezeptsammlung in Obsidian in eine Base-Datenbank überführt. Ich muss aber zugeben, dass ich seither noch nicht viel gemacht habe, um eine bessere Auffindbarkeit einzelner Rezepte zu ermöglichen. Zu mühsam erschien es mir, Tags per Hand zu vergeben und die sogenannten Properties in Obsidian zu setzen. So vegetierte die Sammlung genauso unbenutzt vor sich hin, wie sie es zuvor schon auf Trello getan hat.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -48,8 +47,7 @@
       
       <guid>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</guid>
       <description>&lt;p&gt;Ich habe bei der Softwareentwicklung nie wirklich an Sprachsteuerung geglaubt. Das liegt vielleicht auch daran, dass ich immer etwas nuschele. Beim Programmieren müssen einzelne Kommandos und Variablennamen sehr präzise sein, was mit Sprachsteuerung nicht immer gelingt.&lt;/p&gt;
-&lt;p&gt;Das ist nun mit AI-Agenten anders, da sie ja von Haus aus mit geschriebener Sprache arbeiten. Darüber hinaus sind sie bei der Umwandlung von Schrift in Tokens auch recht tolerant und gehen über kleinere Rechtschreibfehler einfach hinweg.&lt;/p&gt;
-&lt;p&gt;Aber auch hier war ich erst skeptisch, als ich von immer mehr Leuten las, dass sie die Agenten per Sprache steuern. Nun habe ich es aber einfach mal ausprobiert, denn sowohl auf macOS als auch auf iOS ist Sprachsteuerung ja direkt ins Betriebssystem integriert.&lt;/p&gt;</description>
+&lt;p&gt;Das ist nun mit AI-Agenten anders, da sie ja von Haus aus mit geschriebener Sprache arbeiten. Darüber hinaus sind sie bei der Umwandlung von Schrift in Tokens auch recht tolerant und gehen über kleinere Rechtschreibfehler einfach hinweg.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -136,10 +134,7 @@
       <guid>https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/</guid>
       <description>&lt;p&gt;Vor ein paar Monaten hatte ich angefangen, mein Thai-Food-Lexikon &lt;a
   href=&#34;https://www.ahaan-thai.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ahaan-thai.de &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
- ins Englische zu übersetzen. Das Übersetzen der Markdown-Dateien, die Hugo dann als HTML rendert, habe ich anfangs noch mit deepl.com gemacht, bevor ich auf Claude Code umgestiegen bin. Das Übersetzen an sich hat damit auch sehr gut funktioniert, nur die unterschiedlichen Transkriptionen im Deutschen und im Englischen waren immer wieder ein Problem.&lt;/p&gt;
-&lt;p&gt;Da ich in dem Lexikon auch ein Thai-deutsches Wörterbuch für Begriffe rund ums Essen bereitstelle, kam mir die Idee, dieses per &lt;a
-  href=&#34;https://www.ahaan-thai.de/api/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;API &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
- (naja, wenn man ehrlich ist, ist es nicht mehr als ein JSON-Dump) verfügbar zu machen. Diese API habe ich wiederum per Model Context Protocol für Claude verfügbar gemacht. So kann der KI-Agent nun auf meine standardisierten Transkriptionen zugreifen und viele thailändische Wörter übersetzen. Der Clou dabei ist, dass Claude Code sowohl die Schnittstellen als auch den MCP selbst entwickelt hat.&lt;/p&gt;</description>
+ ins Englische zu übersetzen. Das Übersetzen der Markdown-Dateien, die Hugo dann als HTML rendert, habe ich anfangs noch mit deepl.com gemacht, bevor ich auf Claude Code umgestiegen bin. Das Übersetzen an sich hat damit auch sehr gut funktioniert, nur die unterschiedlichen Transkriptionen im Deutschen und im Englischen waren immer wieder ein Problem.&lt;/p&gt;</description>
     </item>
     
     <item>
