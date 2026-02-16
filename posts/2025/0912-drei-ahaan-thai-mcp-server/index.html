@@ -22,29 +22,30 @@
     <title>
         
            
-               Thai Food Dictionary MCP Server &vert; Mein FREItag
+               Drei Ahaan-Thai MCP Server &vert; Mein FREItag
            
         
     </title>
-    <meta itemprop="name" content="Thai Food Dictionary MCP Server">
-    <meta itemprop="description" content="Thai Food Dictionary MCP Server - Was ich an meinen freien Freitagen mache">
+    <meta itemprop="name" content="Drei Ahaan-Thai MCP Server">
+    <meta itemprop="description" content="Drei Ahaan-Thai MCP Server - Was ich an meinen freien Freitagen mache">
     <meta property="og:site_name" content="Mein FREItag">
 
-    <meta property="og:url" content="https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/">
+    <meta property="og:url" content="https://www.jensihrig.de/posts/2025/0912-drei-ahaan-thai-mcp-server/">
   <meta property="og:site_name" content="Mein FREItag">
-  <meta property="og:title" content="Thai Food Dictionary MCP Server">
-  <meta property="og:description" content="Vor ein paar Monaten hatte ich angefangen, mein Thai-Food-Lexikon ahaan-thai.de ins Englische zu übersetzen. Das Übersetzen der Markdown-Dateien, die Hugo dann als HTML rendert, habe ich anfangs noch mit deepl.com gemacht, bevor ich auf Claude Code umgestiegen bin. Das Übersetzen an sich hat damit auch sehr gut funktioniert, nur die unterschiedlichen Transkriptionen im Deutschen und im Englischen waren immer wieder ein Problem.
-Da ich in dem Lexikon auch ein Thai-deutsches Wörterbuch für Begriffe rund ums Essen bereitstelle, kam mir die Idee, dieses per API (naja, wenn man ehrlich ist, ist es nicht mehr als ein JSON-Dump) verfügbar zu machen. Diese API habe ich wiederum per Model Context Protocol für Claude verfügbar gemacht. So kann der KI-Agent nun auf meine standardisierten Transkriptionen zugreifen und viele thailändische Wörter übersetzen. Der Clou dabei ist, dass Claude Code sowohl die Schnittstellen als auch den MCP selbst entwickelt hat.">
+  <meta property="og:title" content="Drei Ahaan-Thai MCP Server">
+  <meta property="og:description" content="Nachdem sich der Thai-Food-Dictionary MCP Server beim Übersetzen sehr gut bewährt hat, habe ich noch zwei weitere Server für meine Kochbuchsammlung (thai-cook-book-library) und das gesamte Thai Food Lexikon (thai-food-encyclopedia) zur Verfügung gestellt. Auch diese wurden von Claude Code mehr oder weniger selbst entwickelt; dabei wurde der bestehende Server noch einmal komplett refactored.
+Mit diesen beiden Servern sowie dem bereits bestehenden Übersetzungsserver habe ich das Importieren von Rezepten aus Kochbüchern in das Thai-Food-Lexikon ahaan-thai.de halb automatisiert. Ich kann Seiten abfotografieren, und Claude Desktop, das ebenfalls auf die MCP-Server zugreifen kann, liest die Bilddateien ein, findet standardisierte Transkriptionen oder übersetzt die thailändischen Namen und gleicht die Daten anschließend mit dem bestehenden Lexikon ab.">
   <meta property="og:locale" content="de_DE">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2025-08-22T20:30:00+01:00">
-    <meta property="article:modified_time" content="2025-08-22T20:30:00+01:00">
+    <meta property="article:published_time" content="2025-09-12T20:30:00+01:00">
+    <meta property="article:modified_time" content="2025-09-12T20:30:00+01:00">
     <meta property="article:tag" content="Agentic-Coding">
     <meta property="article:tag" content="Mcp-Server">
     <meta property="article:tag" content="Claude-Code">
+    <meta property="article:tag" content="Claude-Desktop">
     <meta property="article:tag" content="Thai-Food">
-    <meta property="og:image" content="https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/featuredImage.jpg">
+    <meta property="og:image" content="https://www.jensihrig.de/posts/2025/0912-drei-ahaan-thai-mcp-server/featuredImage.jpg">
 
 
     <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
@@ -60,7 +61,7 @@ Da ich in dem Lexikon auch ein Thai-deutsches Wörterbuch für Begriffe rund ums
 
 
     
-    <link rel="canonical" href="https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/">
+    <link rel="canonical" href="https://www.jensihrig.de/posts/2025/0912-drei-ahaan-thai-mcp-server/">
     
 
     <link rel="stylesheet" href="https://www.jensihrig.de/theme.css">
@@ -144,16 +145,16 @@ Da ich in dem Lexikon auch ein Thai-deutsches Wörterbuch für Begriffe rund ums
         
     <div class="article-wrapper u-cf single">
         
-            <a class="bubble" href="https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/">
+            <a class="bubble" href="https://www.jensihrig.de/posts/2025/0912-drei-ahaan-thai-mcp-server/">
     <i class="fas fa-fw fa-pencil-alt"></i>
 </a>
 
 <article class="default article">
     
     <div class="featured-image">
-        <a href="https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/">
+        <a href="https://www.jensihrig.de/posts/2025/0912-drei-ahaan-thai-mcp-server/">
             
-                <img src="/posts/2025/0822-thai-food-dictionary-mcp-server/featuredImage_hu_9bb0fb7aae59b4fb.jpg" alt="">
+                <img src="/posts/2025/0912-drei-ahaan-thai-mcp-server/featuredImage_hu_a2fa9eee6c776caf.jpg" alt="">
             
         </a>
     </div>
@@ -161,15 +162,15 @@ Da ich in dem Lexikon auch ein Thai-deutsches Wörterbuch für Begriffe rund ums
 
     <div class="content">
     <h1 class="article-title">
-        <a href="https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/">
-            Thai Food Dictionary MCP Server
+        <a href="https://www.jensihrig.de/posts/2025/0912-drei-ahaan-thai-mcp-server/">
+            Drei Ahaan-Thai MCP Server
         </a>
     </h1>
 
     <div class="meta">
         
             
-                <span class="date moment">2025-08-22</span>
+                <span class="date moment">2025-09-12</span>
             
         
 
@@ -194,14 +195,12 @@ Da ich in dem Lexikon auch ein Thai-deutsches Wörterbuch für Begriffe rund ums
     
         
 
-        <p>Vor ein paar Monaten hatte ich angefangen, mein Thai-Food-Lexikon <a
+        <p>Nachdem sich der Thai-Food-Dictionary MCP Server beim Übersetzen sehr gut bewährt hat, habe ich noch zwei weitere Server für meine Kochbuchsammlung (<code>thai-cook-book-library</code>) und das gesamte Thai Food Lexikon (<code>thai-food-encyclopedia</code>) zur Verfügung gestellt. Auch diese wurden von Claude Code mehr oder weniger selbst entwickelt; dabei wurde der bestehende Server noch einmal komplett refactored.</p>
+<p>Mit diesen beiden Servern sowie dem bereits bestehenden Übersetzungsserver habe ich das Importieren von Rezepten aus Kochbüchern in das Thai-Food-Lexikon <a
   href="https://www.ahaan-thai.de/" target="_blank" rel="noopener noreferrer">ahaan-thai.de <i class="fas fa-arrow-up-right-from-square fa-external-link-alt" aria-hidden="true"></i></a>
- ins Englische zu übersetzen. Das Übersetzen der Markdown-Dateien, die Hugo dann als HTML rendert, habe ich anfangs noch mit deepl.com gemacht, bevor ich auf Claude Code umgestiegen bin. Das Übersetzen an sich hat damit auch sehr gut funktioniert, nur die unterschiedlichen Transkriptionen im Deutschen und im Englischen waren immer wieder ein Problem.</p>
-<p>Da ich in dem Lexikon auch ein Thai-deutsches Wörterbuch für Begriffe rund ums Essen bereitstelle, kam mir die Idee, dieses per <a
-  href="https://www.ahaan-thai.de/api/" target="_blank" rel="noopener noreferrer">API <i class="fas fa-arrow-up-right-from-square fa-external-link-alt" aria-hidden="true"></i></a>
- (naja, wenn man ehrlich ist, ist es nicht mehr als ein JSON-Dump) verfügbar zu machen. Diese API habe ich wiederum per Model Context Protocol für Claude verfügbar gemacht. So kann der KI-Agent nun auf meine standardisierten Transkriptionen zugreifen und viele thailändische Wörter übersetzen. Der Clou dabei ist, dass Claude Code sowohl die Schnittstellen als auch den MCP selbst entwickelt hat.</p>
+ halb automatisiert. Ich kann Seiten abfotografieren, und Claude Desktop, das ebenfalls auf die MCP-Server zugreifen kann, liest die Bilddateien ein, findet standardisierte Transkriptionen oder übersetzt die thailändischen Namen und gleicht die Daten anschließend mit dem bestehenden Lexikon ab.</p>
 <p><a
-  href="https://github.com/Der-Reiskoch/ahaan-thai-mcp-server" class="cta-link" target="_blank" rel="noopener noreferrer">Thai Food Dictionary MCP <i class="fas fa-arrow-up-right-from-square fa-external-link-alt" aria-hidden="true"></i></a>
+  href="https://github.com/Der-Reiskoch/ahaan-thai-mcp-server" class="cta-link" target="_blank" rel="noopener noreferrer">Ahaan-Thai MCP Server <i class="fas fa-arrow-up-right-from-square fa-external-link-alt" aria-hidden="true"></i></a>
 </p>
 
     
@@ -229,6 +228,11 @@ Da ich in dem Lexikon auch ein Thai-deutsches Wörterbuch für Begriffe rund ums
                     
                     
                     <a href="https://www.jensihrig.de/tags/claude-code/">Claude-Code</a>
+                    
+                
+                    
+                    
+                    <a href="https://www.jensihrig.de/tags/claude-desktop/">Claude-Desktop</a>
                     
                 
                     

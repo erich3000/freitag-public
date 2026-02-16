@@ -30,10 +30,10 @@
       <description>&lt;p&gt;Ich habe bei der Softwareentwicklung nie wirklich an Sprachsteuerung geglaubt. Das liegt vielleicht auch daran, dass ich immer etwas nuschele. Beim Programmieren müssen einzelne Kommandos und Variablennamen sehr präzise sein, was mit Sprachsteuerung nicht immer gelingt.&lt;/p&gt;&#xA;&lt;p&gt;Das ist nun mit AI-Agenten anders, da sie ja von Haus aus mit geschriebener Sprache arbeiten. Darüber hinaus sind sie bei der Umwandlung von Schrift in Tokens auch recht tolerant und gehen über kleinere Rechtschreibfehler einfach hinweg.&lt;/p&gt;&#xA;&lt;p&gt;Aber auch hier war ich erst skeptisch, als ich von immer mehr Leuten las, dass sie die Agenten per Sprache steuern. Nun habe ich es aber einfach mal ausprobiert, denn sowohl auf macOS als auch auf iOS ist Sprachsteuerung ja direkt ins Betriebssystem integriert.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ahaan-Thai MCP Server</title>
-      <link>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server/</link>
+      <title>Drei Ahaan-Thai MCP Server</title>
+      <link>https://www.jensihrig.de/posts/2025/0912-drei-ahaan-thai-mcp-server/</link>
       <pubDate>Fri, 12 Sep 2025 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2025/0912-ahaan-thai-mcp-server/</guid>
+      <guid>https://www.jensihrig.de/posts/2025/0912-drei-ahaan-thai-mcp-server/</guid>
       <description>&lt;p&gt;Nachdem sich der Thai-Food-Dictionary MCP Server beim Übersetzen sehr gut bewährt hat, habe ich noch zwei weitere Server für meine Kochbuchsammlung (&lt;code&gt;thai-cook-book-library&lt;/code&gt;) und das gesamte Thai Food Lexikon (&lt;code&gt;thai-food-encyclopedia&lt;/code&gt;) zur Verfügung gestellt. Auch diese wurden von Claude Code mehr oder weniger selbst entwickelt; dabei wurde der bestehende Server noch einmal komplett refactored.&lt;/p&gt;&#xA;&lt;p&gt;Mit diesen beiden Servern sowie dem bereits bestehenden Übersetzungsserver habe ich das Importieren von Rezepten aus Kochbüchern in das Thai-Food-Lexikon &lt;a&#xA;  href=&#34;https://www.ahaan-thai.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ahaan-thai.de &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; halb automatisiert. Ich kann Seiten abfotografieren, und Claude Desktop, das ebenfalls auf die MCP-Server zugreifen kann, liest die Bilddateien ein, findet standardisierte Transkriptionen oder übersetzt die thailändischen Namen und gleicht die Daten anschließend mit dem bestehenden Lexikon ab.&lt;/p&gt;</description>
     </item>
     <item>
