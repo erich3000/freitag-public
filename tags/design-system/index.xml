@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1414/tags/design-system/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Khao UI und Khao Malet</title>
-      <link>http://localhost:1414/posts/2024/0816-khao-ui-und-khao-malet/</link>
+      <link>http://localhost:1414/posts/2024/0802-khao-ui-und-khao-malet/</link>
       <pubDate>Fri, 16 Aug 2024 20:30:00 +0200</pubDate>
-      <guid>http://localhost:1414/posts/2024/0816-khao-ui-und-khao-malet/</guid>
+      <guid>http://localhost:1414/posts/2024/0802-khao-ui-und-khao-malet/</guid>
       <description>&lt;p&gt;In den letzten Wochen hat sich einiges hinter den Kulissen meines Blogs und meines Thai-Food-Lexikons „ahaan-thai.de“ getan. Als ich das Online-Lexikon Anfang dieses Jahres von meinem Blog getrennt habe, habe ich einfach eine Kopie davon angelegt. Das führte dazu, dass ich alle Änderungen doppelt machen musste, was nicht nur nervig, sondern auch fehleranfällig ist. Daher bin ich ein paar Schritte zurückgetreten und habe das Design-System „Khao Malet“, die Komponentenbibliothek „Khao UI“ und das Blog-Theme „Khao Pad“ herausgezogen und teilweise auch als Open Source veröffentlicht.&lt;/p&gt;</description>
     </item>
   </channel>
