@@ -36,8 +36,7 @@
       
       <guid>https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/</guid>
       <description>&lt;p&gt;Anders als bei Menschen, die bei sich wiederholenden Tätigkeiten mit der Zeit immer besser werden, lassen bei KI-Agenten die Ergebnisse deutlich nach, sobald das Kontextfenster zu klein wird.&lt;/p&gt;
-&lt;p&gt;Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Einträge für mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualität so schnell nachlässt.&lt;/p&gt;
-&lt;p&gt;Die Antwort waren meine MCP-Server: Deren Toolbeschreibungen werden beim Start einer Session komplett in den Kontext geladen. Dadurch nimmt schon der initiale Zustand einen großen Teil des Kontextfensters ein. Je mehr Tools ein MCP-Server anbietet, desto größer ist diese Kontextverschwendung.&lt;/p&gt;</description>
+&lt;p&gt;Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Einträge für mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualität so schnell nachlässt.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -77,10 +76,7 @@
       
       <guid>https://www.jensihrig.de/posts/2025/1024-claude-code-migriert-svelte/</guid>
       <description>&lt;p&gt;Heute durfte Claude Code auch mal etwas coden, und nicht nur Markdown-Dateien durch die Gegend schieben oder thailändische Gerichte übersetzen.&lt;/p&gt;
-&lt;p&gt;Mit der Hilfe des Agents habe ich endlich meine komplette Komponentenbibliothek &lt;code&gt;Khao UI&lt;/code&gt; auf die Svelte-5-Syntax migriert. Eine wirklich langweilige Aufgabe, die ich schon seit Monaten vor mir her schiebe.&lt;/p&gt;
-&lt;p&gt;&lt;a
-  href=&#34;https://khao-ui-tools.github.io/khao-ui/storybook/?path=/docs/about-khao-ui--docs&#34; class=&#34;cta-link&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Khao UI &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;/p&gt;</description>
+&lt;p&gt;Mit der Hilfe des Agents habe ich endlich meine komplette Komponentenbibliothek &lt;code&gt;Khao UI&lt;/code&gt; auf die Svelte-5-Syntax migriert. Eine wirklich langweilige Aufgabe, die ich schon seit Monaten vor mir her schiebe.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -89,10 +85,7 @@
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0100</pubDate>
       
       <guid>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</guid>
-      <description>&lt;p&gt;Heute habe ich die Ahaan-Thai MCP-Server als MCP-Bundle (MCPB) veröffentlicht. Meine drei MCP-Server rund ums thailändische Essen können nun als MCP-Bundle heruntergeladen und so ganz einfach in Claude Desktop und andere KI-Produkte, die diesen offenen Standard von Anthropic unterstützen, installiert werden. Auch bei dieser Umsetzung hat mich Claude Code tatkräftig unterstützt.&lt;/p&gt;
-&lt;p&gt;Passend dazu habe ich auf meinem &amp;ldquo;Der Reiskoch&amp;rdquo; Blog auch den Artikel &lt;a
-  href=&#34;https://www.der-reiskoch.de/wissenswertes/kulinarische-intelligenz/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Kulinarische Intelligenz &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
- veröffentlicht. In diesem beschreibe ich, wie ich die MCP-Server nicht zur Generierung neuer Inhalte, sondern zur strukturierten Übersetzung meines kompletten Thai-Food-Lexikons eingesetzt habe.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Heute habe ich die Ahaan-Thai MCP-Server als MCP-Bundle (MCPB) veröffentlicht. Meine drei MCP-Server rund ums thailändische Essen können nun als MCP-Bundle heruntergeladen und so ganz einfach in Claude Desktop und andere KI-Produkte, die diesen offenen Standard von Anthropic unterstützen, installiert werden. Auch bei dieser Umsetzung hat mich Claude Code tatkräftig unterstützt.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -101,8 +94,7 @@
       <pubDate>Fri, 26 Sep 2025 20:30:00 +0100</pubDate>
       
       <guid>https://www.jensihrig.de/posts/2025/0926-datenbanken-in-obsidian/</guid>
-      <description>&lt;p&gt;Vor ein paar Wochen wurde für Obsidian das neue Core Plugin &amp;ldquo;Bases&amp;rdquo; veröffentlicht. Dieses stattet die Wissensmanagement-Software mit Datenbank-Funktionalitäten aus. So können Obsidian-Notizen nun tabellarisch und in Form von Karten dargestellt werden. Tabellen und Karten können mit Filtern versehen werden und nach verschiedenen Feldern sortiert werden. Welche Felder angezeigt werden, kann man einfach konfigurieren.&lt;/p&gt;
-&lt;p&gt;Ich habe das Plugin jetzt installiert und meine Rezeptsammlung von Kanban-Boards in eine &amp;ldquo;Bases&amp;rdquo; Datenbank überführt. Die Verwendung von Boards für die Verwaltung der Rezepte war ein Überbleibsel von der Übernahme aus Trello. Das hat keinen Vorteil, sondern nur Druck gebracht (&amp;ldquo;Du musst das jetzt kochen!&amp;rdquo;). Eine durchsuchbare Datenbank-Ansicht macht für die Rezepte viel mehr Sinn.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Vor ein paar Wochen wurde für Obsidian das neue Core Plugin &amp;ldquo;Bases&amp;rdquo; veröffentlicht. Dieses stattet die Wissensmanagement-Software mit Datenbank-Funktionalitäten aus. So können Obsidian-Notizen nun tabellarisch und in Form von Karten dargestellt werden. Tabellen und Karten können mit Filtern versehen werden und nach verschiedenen Feldern sortiert werden. Welche Felder angezeigt werden, kann man einfach konfigurieren.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -120,10 +112,7 @@
       <pubDate>Fri, 12 Sep 2025 20:30:00 +0100</pubDate>
       
       <guid>https://www.jensihrig.de/posts/2025/0912-drei-ahaan-thai-mcp-server/</guid>
-      <description>&lt;p&gt;Nachdem sich der Thai-Food-Dictionary MCP Server beim Übersetzen sehr gut bewährt hat, habe ich noch zwei weitere Server für meine Kochbuchsammlung (&lt;code&gt;thai-cook-book-library&lt;/code&gt;) und das gesamte Thai Food Lexikon (&lt;code&gt;thai-food-encyclopedia&lt;/code&gt;) zur Verfügung gestellt. Auch diese wurden von Claude Code mehr oder weniger selbst entwickelt; dabei wurde der bestehende Server noch einmal komplett refactored.&lt;/p&gt;
-&lt;p&gt;Mit diesen beiden Servern sowie dem bereits bestehenden Übersetzungsserver habe ich das Importieren von Rezepten aus Kochbüchern in das Thai-Food-Lexikon &lt;a
-  href=&#34;https://www.ahaan-thai.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ahaan-thai.de &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;
- halb automatisiert. Ich kann Seiten abfotografieren, und Claude Desktop, das ebenfalls auf die MCP-Server zugreifen kann, liest die Bilddateien ein, findet standardisierte Transkriptionen oder übersetzt die thailändischen Namen und gleicht die Daten anschließend mit dem bestehenden Lexikon ab.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Nachdem sich der Thai-Food-Dictionary MCP Server beim Übersetzen sehr gut bewährt hat, habe ich noch zwei weitere Server für meine Kochbuchsammlung (&lt;code&gt;thai-cook-book-library&lt;/code&gt;) und das gesamte Thai Food Lexikon (&lt;code&gt;thai-food-encyclopedia&lt;/code&gt;) zur Verfügung gestellt. Auch diese wurden von Claude Code mehr oder weniger selbst entwickelt; dabei wurde der bestehende Server noch einmal komplett refactored.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -208,8 +197,7 @@
       <pubDate>Fri, 07 Feb 2025 20:30:00 +0100</pubDate>
       
       <guid>https://www.jensihrig.de/posts/2025/0207-obsidian-als-trello-ersatz/</guid>
-      <description>&lt;p&gt;Vor Kurzem habe ich auf medium.com wieder mehrere Artikel über Obsidian gelesen und mir diese Personal-Knowledge-Management (PKM) Software endlich mal installiert. Ich war sofort begeistert, vor allem weil Obsidian auf Markdown setzt. Dieses Format verwende ich seit Jahren, um Artikel und Rezepte für meinen Hugo-basierten Blog zu schreiben.&lt;/p&gt;
-&lt;p&gt;Die Markdown-Dateien liegen nicht in irgendeiner Cloud, sondern lokal auf meinem Rechner. Ich kann sie sowohl mit Obsidian als auch mit einem normalen Texteditor bearbeiten. Außerdem kann ich sie per Obsidian Sync auf weitere Rechner und mobile Geräte abgleichen und sie dann dort ebenfalls mit Obsidian öffnen.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Vor Kurzem habe ich auf medium.com wieder mehrere Artikel über Obsidian gelesen und mir diese Personal-Knowledge-Management (PKM) Software endlich mal installiert. Ich war sofort begeistert, vor allem weil Obsidian auf Markdown setzt. Dieses Format verwende ich seit Jahren, um Artikel und Rezepte für meinen Hugo-basierten Blog zu schreiben.&lt;/p&gt;</description>
     </item>
     
     <item>
