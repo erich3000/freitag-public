@@ -23,13 +23,6 @@
       <description>&lt;p&gt;In den letzten Monaten habe ich mich beruflich wie auch privat intensiv mit KI-Agenten beschäftigt. Dabei habe ich gelernt, dass die Qualität und Ausführlichkeit von Prompts einen enormen Einfluss auf die Qualität der Ergebnisse haben.&lt;/p&gt;&#xA;&lt;p&gt;Ausführliche Prompts direkt im Terminal zu schreiben ist jedoch mühsam. Deshalb habe ich begonnen, Markdown-Dateien mit detaillierten Beschreibungen von Todos im Projekt-Root abzulegen und diese den Agenten als Input zu übergeben. Das wird allerdings schnell unübersichtlich und ist für andere Teammitglieder schwer nachvollziehbar.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Tokens sparen durch Skills</title>
-      <link>https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/</link>
-      <pubDate>Fri, 30 Jan 2026 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/</guid>
-      <description>&lt;p&gt;Anders als bei Menschen, die bei sich wiederholenden Tätigkeiten mit der Zeit immer besser werden, lassen bei KI-Agenten die Ergebnisse deutlich nach, sobald das Kontextfenster zu klein wird.&lt;/p&gt;&#xA;&lt;p&gt;Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Einträge für mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualität so schnell nachlässt.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Sprachsteuerung</title>
       <link>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</link>
       <pubDate>Fri, 23 Jan 2026 20:30:00 +0100</pubDate>
