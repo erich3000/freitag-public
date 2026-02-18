@@ -1,0 +1,31 @@
+.sports-info {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.65rem;
+  margin: 0.6rem 0 1.3rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  background: var(--freitag-sports-info-bg);
+  color: var(--freitag-sports-info-text);
+  font-size: 1.2rem;
+  line-height: 1.2;
+}
+
+.sports-info__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--freitag-sports-info-icon);
+  min-width: 1.1rem;
+}
+
+.sports-info__metric {
+  display: inline-flex;
+  align-items: center;
+}
+
+.sports-info__metric + .sports-info__metric {
+  padding-left: 0.65rem;
+  border-left: 1px solid var(--freitag-sports-info-separator);
+}
