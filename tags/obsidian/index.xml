@@ -6,8 +6,15 @@
     <description>Recent content in Obsidian on Mein FREItag</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 13 Feb 2026 20:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 17:30:00 +0100</lastBuildDate>
     <atom:link href="https://www.jensihrig.de/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>trello2obsidian skills</title>
+      <link>https://www.jensihrig.de/posts/2026/0220-trello2obsidian-skills/</link>
+      <pubDate>Fri, 20 Feb 2026 17:30:00 +0100</pubDate>
+      <guid>https://www.jensihrig.de/posts/2026/0220-trello2obsidian-skills/</guid>
+      <description>&lt;p&gt;Nachdem ich letzte Woche mit Hilfe von Codex und Claude mein Obsidian Vault aufgeräumt habe, habe ich am heutigen Freitag gleich wieder Unordnung reingebracht.&#xA;Denn ich habe mit der Hilfe von diesen beiden AI Agenten alle meine Trello-Boards nun endlich automatisiert nach Obsidian übertragen.&lt;/p&gt;&#xA;&lt;p&gt;Hierzu habe ich die einzelnen Boards in Trello als JSON exportiert und dann mit Hilfe eines angepassten Skriptes, das ich später in einen Agent Skill überführt habe, importiert. Mit Hilfe von weiteren Skills habe ich danach die importierten Markdown-Dateien wieder als Kanban-Board angeordnet, dann deren Vorschau-Bilder aus Trello herunterladen lassen und diese schließlich als Frontmatter Thumbnail in den Markdown-Dateien definiert.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Frühjahrsputz im Markdown-Wald</title>
       <link>https://www.jensihrig.de/posts/2026/0213-fruehjahrsputz-im-markdown-wald/</link>
