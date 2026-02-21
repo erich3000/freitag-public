@@ -25,6 +25,10 @@
   align-items: center;
 }
 
+.sports-info__metric-icon {
+  margin-right: 0.35rem;
+}
+
 .sports-info__metric + .sports-info__metric {
   padding-left: 0.65rem;
   border-left: 1px solid var(--freitag-sports-info-separator);

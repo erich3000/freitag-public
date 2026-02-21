@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.jensihrig.de/</loc>
+    <lastmod>2026-04-03T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/page/</loc>
+    <lastmod>2026-04-03T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://www.jensihrig.de/tags/agent-skills/</loc>
     <lastmod>2026-02-20T17:30:00+01:00</lastmod>
   </url><url>
@@ -9,9 +15,6 @@
     <lastmod>2026-02-20T17:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/categories/drinnen/</loc>
-    <lastmod>2026-02-20T17:30:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/</loc>
     <lastmod>2026-02-20T17:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/tags/obsidian/</loc>
@@ -160,12 +163,6 @@
   </url><url>
     <loc>https://www.jensihrig.de/posts/2024/0412-wanderung-landeck/</loc>
     <lastmod>2024-04-12T20:30:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/page/</loc>
-    <lastmod>2024-04-03T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/page/ueber-mein-freitag/</loc>
-    <lastmod>2024-04-03T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/posts/2023/0929-einmal-um-den-kaiserstuhl/</loc>
     <lastmod>2023-09-29T20:30:00+02:00</lastmod>
