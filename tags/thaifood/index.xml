@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thaifood on Mein FREItag</title>
+    <link>https://www.jensihrig.de/tags/thaifood/</link>
+    <description>Recent content in Thaifood on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 30 Jan 2026 20:30:00 +0100</lastBuildDate>
+    <atom:link href="https://www.jensihrig.de/tags/thaifood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tokens sparen durch Skills</title>
+      <link>https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/</link>
+      <pubDate>Fri, 30 Jan 2026 20:30:00 +0100</pubDate>
+      <guid>https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/</guid>
+      <description>&lt;p&gt;Anders als bei Menschen, die bei sich wiederholenden Tätigkeiten mit der Zeit immer besser werden, lassen bei KI-Agenten die Ergebnisse deutlich nach, sobald das Kontextfenster zu klein wird.&lt;/p&gt;&#xA;&lt;p&gt;Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Einträge für mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualität so schnell nachlässt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ahaan-Thai MCP als Bundle</title>
+      <link>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0100</pubDate>
+      <guid>https://www.jensihrig.de/posts/2025/1017-ahaan-thai-mcp-als-bundle/</guid>
+      <description>&lt;p&gt;Heute habe ich die Ahaan-Thai MCP-Server als MCP-Bundle (MCPB) veröffentlicht. Meine drei MCP-Server rund ums thailändische Essen können nun als MCP-Bundle heruntergeladen und so ganz einfach in Claude Desktop und andere KI-Produkte, die diesen offenen Standard von Anthropic unterstützen, installiert werden. Auch bei dieser Umsetzung hat mich Claude Code tatkräftig unterstützt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drei Ahaan-Thai MCP Server</title>
+      <link>https://www.jensihrig.de/posts/2025/0912-drei-ahaan-thai-mcp-server/</link>
+      <pubDate>Fri, 12 Sep 2025 20:30:00 +0100</pubDate>
+      <guid>https://www.jensihrig.de/posts/2025/0912-drei-ahaan-thai-mcp-server/</guid>
+      <description>&lt;p&gt;Nachdem sich der Thai-Food-Dictionary MCP Server beim Übersetzen sehr gut bewährt hat, habe ich noch zwei weitere Server für meine Kochbuchsammlung (&lt;code&gt;thai-cook-book-library&lt;/code&gt;) und das gesamte Thai Food Lexikon (&lt;code&gt;thai-food-encyclopedia&lt;/code&gt;) zur Verfügung gestellt. Auch diese wurden von Claude Code mehr oder weniger selbst entwickelt; dabei wurde der bestehende Server noch einmal komplett refactored.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thai Food Dictionary MCP Server</title>
+      <link>https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/</link>
+      <pubDate>Fri, 22 Aug 2025 20:30:00 +0100</pubDate>
+      <guid>https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/</guid>
+      <description>&lt;p&gt;Vor ein paar Monaten hatte ich angefangen, mein Thai-Food-Lexikon &lt;a&#xA;  href=&#34;https://www.ahaan-thai.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ahaan-thai.de &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; ins Englische zu übersetzen. Das Übersetzen der Markdown-Dateien, die Hugo dann als HTML rendert, habe ich anfangs noch mit deepl.com gemacht, bevor ich auf Claude Code umgestiegen bin. Das Übersetzen an sich hat damit auch sehr gut funktioniert, nur die unterschiedlichen Transkriptionen im Deutschen und im Englischen waren immer wieder ein Problem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thai Food Festival in Viernheim</title>
+      <link>https://www.jensihrig.de/posts/2025/0801-thai-food-festival-in-viernheim/</link>
+      <pubDate>Fri, 01 Aug 2025 20:30:00 +0200</pubDate>
+      <guid>https://www.jensihrig.de/posts/2025/0801-thai-food-festival-in-viernheim/</guid>
+      <description>&lt;p&gt;Heute bin ich mal wieder in die Kurpfalz gefahren und habe zusammen mit meiner Mutter ein Thai Food Festival am Rhein-Neckar-Zentrum in Viernheim besucht. Viel los war noch nicht, und wirklich gemütlich ist es auf so einem Parkplatz ja auch nicht. Als &amp;ldquo;Der Reiskoch&amp;rdquo; habe ich natürlich einen kurzen Artikel über das &lt;a&#xA;  href=&#34;https://www.der-reiskoch.de/wissenswertes/lanna-thai-food-festival-in-viernheim/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Lanna Thai Food Festival &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; verfasst.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kochkurs bei Ben Kindler</title>
+      <link>https://www.jensihrig.de/posts/2023/0505-ben-kindler/</link>
+      <pubDate>Fri, 05 May 2023 20:30:00 +0200</pubDate>
+      <guid>https://www.jensihrig.de/posts/2023/0505-ben-kindler/</guid>
+      <description>&lt;p&gt;Heute habe ich den Kochkurs &amp;ldquo;Thailändische Küche mit regionalem Gemüse&amp;rdquo; bei Ben Kindler besucht. Das war ein spannender und schöner halber freier Freitag, über den ich auch ausführlich auf meinem Reiskoch-Blog berichtet habe.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a&#xA;  href=&#34;https://www.der-reiskoch.de/wissenswertes/thai-kueche-mit-regionalem-gemuese/&#34; class=&#34;cta-link&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Artikel auf der-reiskoch.de &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
