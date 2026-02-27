@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.jensihrig.de/tags/agent-skills/</loc>
-    <lastmod>2026-02-20T17:30:00+01:00</lastmod>
+    <loc>https://www.jensihrig.de/</loc>
+    <lastmod>2026-02-27T20:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/posts/</loc>
+    <lastmod>2026-02-27T20:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/categories/</loc>
+    <lastmod>2026-02-27T15:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/categories/drau%C3%9Fen/</loc>
+    <lastmod>2026-02-27T15:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/tags/dreisamtal/</loc>
+    <lastmod>2026-02-27T15:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/tags/freiburg/</loc>
+    <lastmod>2026-02-27T15:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/tags/</loc>
+    <lastmod>2026-02-27T15:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/tags/wandern/</loc>
+    <lastmod>2026-02-27T15:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/posts/2026/0227-wanderung-zum-kleinen-rosskopf/</loc>
+    <lastmod>2026-02-27T15:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/tags/agent-skills/</loc>
     <lastmod>2026-02-20T17:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/categories/drinnen/</loc>
     <lastmod>2026-02-20T17:30:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.jensihrig.de/</loc>
-    <lastmod>2026-02-20T17:30:00+01:00</lastmod>
-  </url><url>
     <loc>https://www.jensihrig.de/tags/obsidian/</loc>
-    <lastmod>2026-02-20T17:30:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/posts/</loc>
-    <lastmod>2026-02-20T17:30:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/tags/</loc>
     <lastmod>2026-02-20T17:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/posts/2026/0220-trello2obsidian-skills/</loc>
@@ -50,20 +65,11 @@
     <loc>https://www.jensihrig.de/posts/2026/0130-kontext-tokens-sparen-durch-skills/</loc>
     <lastmod>2026-01-30T20:30:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.jensihrig.de/categories/drau%C3%9Fen/</loc>
-    <lastmod>2026-01-23T20:30:00+01:00</lastmod>
-  </url><url>
     <loc>https://www.jensihrig.de/tags/speech-to-text/</loc>
     <lastmod>2026-01-23T20:30:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</loc>
+    <loc>https://www.jensihrig.de/posts/2026/0123-sprachnotizen/</loc>
     <lastmod>2026-01-23T20:30:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/tags/dreisamtal/</loc>
-    <lastmod>2026-01-16T20:30:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/tags/freiburg/</loc>
-    <lastmod>2026-01-16T20:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/posts/2026/0116-spaziergang/</loc>
     <lastmod>2026-01-16T20:30:00+01:00</lastmod>
@@ -101,13 +107,13 @@
     <loc>https://www.jensihrig.de/posts/2025/0919-titisee-hinterzarten/</loc>
     <lastmod>2025-09-19T20:46:24+01:00</lastmod>
   </url><url>
-    <loc>https://www.jensihrig.de/tags/wandern/</loc>
-    <lastmod>2025-09-19T20:46:24+01:00</lastmod>
-  </url><url>
     <loc>https://www.jensihrig.de/posts/2025/0912-drei-ahaan-thai-mcp-server/</loc>
     <lastmod>2025-09-12T20:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/posts/2025/0822-thai-food-dictionary-mcp-server/</loc>
+    <lastmod>2025-08-22T20:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/tags/w%C3%B6rterbuch/</loc>
     <lastmod>2025-08-22T20:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/posts/2025/0801-thai-food-festival-in-viernheim/</loc>

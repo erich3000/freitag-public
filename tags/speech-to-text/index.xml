@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 23 Jan 2026 20:30:00 +0100</lastBuildDate>
     <atom:link href="https://www.jensihrig.de/tags/speech-to-text/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sprachsteuerung</title>
-      <link>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</link>
+      <title>Sprachnotizen für Agenten</title>
+      <link>https://www.jensihrig.de/posts/2026/0123-sprachnotizen/</link>
       <pubDate>Fri, 23 Jan 2026 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</guid>
+      <guid>https://www.jensihrig.de/posts/2026/0123-sprachnotizen/</guid>
       <description>&lt;p&gt;Ich habe bei der Softwareentwicklung nie wirklich an Sprachsteuerung geglaubt. Das liegt vielleicht auch daran, dass ich immer etwas nuschele. Beim Programmieren müssen einzelne Kommandos und Variablennamen sehr präzise sein, was mit Sprachsteuerung nicht immer gelingt.&lt;/p&gt;&#xA;&lt;p&gt;Das ist nun mit AI-Agenten anders, da sie ja von Haus aus mit geschriebener Sprache arbeiten. Darüber hinaus sind sie bei der Umwandlung von Schrift in Tokens auch recht tolerant und gehen über kleinere Rechtschreibfehler einfach hinweg.&lt;/p&gt;</description>
     </item>
   </channel>

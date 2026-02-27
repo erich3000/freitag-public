@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wörrte on Mein FREItag</title>
+    <link>http://localhost:1414/tags/w%C3%B6rrte/</link>
+    <description>Recent content in Wörrte on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 22 Aug 2025 20:30:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/w%C3%B6rrte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thai Food Dictionary MCP Server</title>
+      <link>http://localhost:1414/posts/2025/0822-thai-food-dictionary-mcp-server/</link>
+      <pubDate>Fri, 22 Aug 2025 20:30:00 +0100</pubDate>
+      <guid>http://localhost:1414/posts/2025/0822-thai-food-dictionary-mcp-server/</guid>
+      <description>&lt;p&gt;Vor ein paar Monaten hatte ich angefangen, mein Thai-Food-Lexikon &lt;a&#xA;  href=&#34;https://www.ahaan-thai.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ahaan-thai.de &lt;i class=&#34;fas fa-arrow-up-right-from-square fa-external-link-alt&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;&lt;/a&gt;&#xA; ins Englische zu übersetzen. Das Übersetzen der Markdown-Dateien, die Hugo dann als HTML rendert, habe ich anfangs noch mit deepl.com gemacht, bevor ich auf Claude Code umgestiegen bin. Das Übersetzen an sich hat damit auch sehr gut funktioniert, nur die unterschiedlichen Transkriptionen im Deutschen und im Englischen waren immer wieder ein Problem.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

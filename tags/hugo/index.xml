@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Mein FREItag</title>
+    <link>http://localhost:1414/tags/hugo/</link>
+    <description>Recent content in Hugo on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 16 Aug 2024 20:30:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Khao UI, Khao Malet und Khao Pad</title>
+      <link>http://localhost:1414/posts/2024/0802-khao-ui-und-khao-malet/</link>
+      <pubDate>Fri, 16 Aug 2024 20:30:00 +0200</pubDate>
+      <guid>http://localhost:1414/posts/2024/0802-khao-ui-und-khao-malet/</guid>
+      <description>&lt;p&gt;In den letzten Wochen hat sich einiges hinter den Kulissen meines Blogs und meines Thai-Food-Lexikons „ahaan-thai.de“ getan. Als ich das Online-Lexikon Anfang dieses Jahres von meinem Blog getrennt habe, habe ich einfach eine Kopie davon angelegt. Das führte dazu, dass ich alle Änderungen doppelt machen musste, was nicht nur nervig, sondern auch fehleranfällig ist. Daher bin ich ein paar Schritte zurückgetreten und habe das Design-System „Khao Malet“, die Komponentenbibliothek „Khao UI“ und das Blog-Theme „Khao Pad“ herausgezogen und teilweise auch als Open Source veröffentlicht.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugo Theme `Khao Niao`</title>
+      <link>http://localhost:1414/posts/2024/0524-hugo-theme-khao-niao/</link>
+      <pubDate>Fri, 24 May 2024 20:30:00 +0200</pubDate>
+      <guid>http://localhost:1414/posts/2024/0524-hugo-theme-khao-niao/</guid>
+      <description>&lt;p&gt;Als ich mit meinem Thai-Food-Lexikon begann, machte ich schlicht und ergreifend eine Kopie von meinem Reiskoch-Blog.&#xA;Ich wusste natürlich schon damals, dass dies keine gute Idee war, aber ich wollte möglichst schnell online gehen.&lt;/p&gt;&#xA;&lt;p&gt;Und ja, es hat nicht lange gedauert, bis sich zeigte, dass diese Entscheidung nicht gut war, denn ich musste die erste Änderung bereits an zwei Stellen machen oder zumindest von einem Blog in den anderen übertragen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

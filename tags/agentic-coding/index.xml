@@ -23,10 +23,10 @@
       <description>&lt;p&gt;Anders als bei Menschen, die bei sich wiederholenden Tätigkeiten mit der Zeit immer besser werden, lassen bei KI-Agenten die Ergebnisse deutlich nach, sobald das Kontextfenster zu klein wird.&lt;/p&gt;&#xA;&lt;p&gt;Bei meinem Ahaan-Thai-Importer, der abfotografierte Kochbuchseiten einliest, um Einträge für mein Thai-Food-Lexikon zu erstellen, habe ich mich gefragt, warum die Qualität so schnell nachlässt.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sprachsteuerung</title>
-      <link>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</link>
+      <title>Sprachnotizen für Agenten</title>
+      <link>https://www.jensihrig.de/posts/2026/0123-sprachnotizen/</link>
       <pubDate>Fri, 23 Jan 2026 20:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/posts/2026/0123-sprachsteuerung/</guid>
+      <guid>https://www.jensihrig.de/posts/2026/0123-sprachnotizen/</guid>
       <description>&lt;p&gt;Ich habe bei der Softwareentwicklung nie wirklich an Sprachsteuerung geglaubt. Das liegt vielleicht auch daran, dass ich immer etwas nuschele. Beim Programmieren müssen einzelne Kommandos und Variablennamen sehr präzise sein, was mit Sprachsteuerung nicht immer gelingt.&lt;/p&gt;&#xA;&lt;p&gt;Das ist nun mit AI-Agenten anders, da sie ja von Haus aus mit geschriebener Sprache arbeiten. Darüber hinaus sind sie bei der Umwandlung von Schrift in Tokens auch recht tolerant und gehen über kleinere Rechtschreibfehler einfach hinweg.&lt;/p&gt;</description>
     </item>
     <item>
