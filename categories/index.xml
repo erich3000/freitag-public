@@ -6,20 +6,20 @@
     <description>Recent content in Categories on Mein FREItag</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 27 Feb 2026 15:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 19:30:00 +0100</lastBuildDate>
     <atom:link href="https://www.jensihrig.de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drinnen</title>
+      <link>https://www.jensihrig.de/categories/drinnen/</link>
+      <pubDate>Fri, 27 Feb 2026 19:30:00 +0100</pubDate>
+      <guid>https://www.jensihrig.de/categories/drinnen/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Draußen</title>
       <link>https://www.jensihrig.de/categories/drau%C3%9Fen/</link>
       <pubDate>Fri, 27 Feb 2026 15:30:00 +0100</pubDate>
       <guid>https://www.jensihrig.de/categories/drau%C3%9Fen/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Drinnen</title>
-      <link>https://www.jensihrig.de/categories/drinnen/</link>
-      <pubDate>Fri, 20 Feb 2026 17:30:00 +0100</pubDate>
-      <guid>https://www.jensihrig.de/categories/drinnen/</guid>
       <description></description>
     </item>
   </channel>

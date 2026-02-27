@@ -2,14 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.jensihrig.de/</loc>
-    <lastmod>2026-02-27T20:30:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/posts/</loc>
-    <lastmod>2026-02-27T20:30:00+01:00</lastmod>
+    <loc>https://www.jensihrig.de/tags/agentic-coding/</loc>
+    <lastmod>2026-02-27T19:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/categories/</loc>
-    <lastmod>2026-02-27T15:30:00+01:00</lastmod>
+    <lastmod>2026-02-27T19:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/categories/drinnen/</loc>
+    <lastmod>2026-02-27T19:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/</loc>
+    <lastmod>2026-02-27T19:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/tags/obsidian/</loc>
+    <lastmod>2026-02-27T19:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/posts/</loc>
+    <lastmod>2026-02-27T19:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/posts/2026/0227-second-brain-fuer-agenten/</loc>
+    <lastmod>2026-02-27T19:30:00+01:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/tags/</loc>
+    <lastmod>2026-02-27T19:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/categories/drau%C3%9Fen/</loc>
     <lastmod>2026-02-27T15:30:00+01:00</lastmod>
@@ -18,9 +33,6 @@
     <lastmod>2026-02-27T15:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/tags/freiburg/</loc>
-    <lastmod>2026-02-27T15:30:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/tags/</loc>
     <lastmod>2026-02-27T15:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/tags/wandern/</loc>
@@ -32,12 +44,6 @@
     <loc>https://www.jensihrig.de/tags/agent-skills/</loc>
     <lastmod>2026-02-20T17:30:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.jensihrig.de/categories/drinnen/</loc>
-    <lastmod>2026-02-20T17:30:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/tags/obsidian/</loc>
-    <lastmod>2026-02-20T17:30:00+01:00</lastmod>
-  </url><url>
     <loc>https://www.jensihrig.de/posts/2026/0220-trello2obsidian-skills/</loc>
     <lastmod>2026-02-20T17:30:00+01:00</lastmod>
   </url><url>
@@ -45,9 +51,6 @@
     <lastmod>2026-02-13T20:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/posts/2026/0206-ji-skills-plugin/</loc>
-    <lastmod>2026-02-06T20:30:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/tags/agentic-coding/</loc>
     <lastmod>2026-02-06T20:30:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/tags/claude-code/</loc>
