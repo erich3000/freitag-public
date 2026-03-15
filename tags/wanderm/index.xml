@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wanderm on Mein FREItag</title>
+    <link>http://localhost:1414/tags/wanderm/</link>
+    <description>Recent content in Wanderm on Mein FREItag</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 13 Mar 2026 20:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1414/tags/wanderm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wanderung vom Welchental</title>
+      <link>http://localhost:1414/posts/2026/0313-wanderung-vom-welchental/</link>
+      <pubDate>Fri, 13 Mar 2026 20:00:00 +0100</pubDate>
+      <guid>http://localhost:1414/posts/2026/0313-wanderung-vom-welchental/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
