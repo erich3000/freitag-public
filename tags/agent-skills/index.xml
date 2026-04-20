@@ -6,8 +6,15 @@
     <description>Recent content in Agent-Skills on Mein FREItag</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 20 Feb 2026 17:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 12:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.jensihrig.de/tags/agent-skills/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude hilft bei der Wohnungssuche</title>
+      <link>https://www.jensihrig.de/posts/2026/0417-claude-hilft-bei-der-wohnungsuche/</link>
+      <pubDate>Fri, 17 Apr 2026 12:00:00 +0200</pubDate>
+      <guid>https://www.jensihrig.de/posts/2026/0417-claude-hilft-bei-der-wohnungsuche/</guid>
+      <description>&lt;p&gt;Da Claude Code PDFs und andere Dokumente viel schneller lesen kann als ich, darf er jetzt bei der Wohnungssuche helfen. Dazu lade ich alle relevanten Dateien einer Immobilie in mein Obsidian Vault und Claude durchstöbert mit einem Skill so dröge Dokumente wie Protokolle von Wohnungseigentümerversammlung und weist mich auf wichtige oder problematische Tatsachen hin und liefert mir eine kompakte Übersicht aller Fakten.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>trello2obsidian skills</title>
       <link>https://www.jensihrig.de/posts/2026/0220-trello2obsidian-skills/</link>
