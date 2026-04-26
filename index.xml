@@ -23,7 +23,16 @@
       &lt;i class=&#34;far fa-clock sports-info__metric-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;3:08 h
     &lt;/span&gt;&lt;/div&gt;
 
-&lt;p&gt;Heute habe ich bei wunderbarem Wetter eine Wanderung gemacht. Ich bin von zuhause gestartet und bin über die Wiehre, den Bromberg, Kybfelsen und Sohlacker bis Bohrer gelaufen und von dort mit dem Bus zurück nach Günterstal.&lt;/p&gt;</description>
+&lt;p&gt;Heute habe ich bei wunderbarem Wetter eine Wanderung gemacht. Ich bin von zu Hause gestartet und bin über die Wiehre, den Bromberg, Kybfelsen und Sohlacker bis Bohrer gelaufen und von dort mit dem Bus zurück nach Günterstal.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mehr Übersicht mit cmux</title>
+      <link>https://www.jensihrig.de/posts/2026/0424-mehr-uebersicht-mit-cmux/</link>
+      <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+      
+      <guid>https://www.jensihrig.de/posts/2026/0424-mehr-uebersicht-mit-cmux/</guid>
+      <description>&lt;p&gt;Was mich schon länger umtreibt ist die Frage: wie behalte ich die Übersicht wenn ich mehrere Instanzen von Claude Code und/oder Codex parallel arbeiten lasse. Lustigerweise haben wir darüber auch am Donnerstag in unserer Software Engineering Community of Practice (COP) bei der Arbeit geredet. Bisher hatte ich immer mehrere Tabs im Terminal oder in VSCode offen. Ab einer bestimmten Anzahl verlor ich immer den Überblick. Auch Claude Features wie &lt;code&gt;/rename&lt;/code&gt; und &lt;code&gt;/color&lt;/code&gt; halfen nur bedingt, da ich ja trotzdem zuerst ein Tab öffnen musste um zu sehen was sich dahinter verbirgt, außerdem bekam ich nie mit wenn eine der Instanzen auf User Input wartete.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -6,8 +6,15 @@
     <description>Recent content in Agentic-Coding on Mein FREItag</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 06 Mar 2026 08:35:59 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 06:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.jensihrig.de/tags/agentic-coding/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mehr Übersicht mit cmux</title>
+      <link>https://www.jensihrig.de/posts/2026/0424-mehr-uebersicht-mit-cmux/</link>
+      <pubDate>Fri, 24 Apr 2026 06:00:00 +0200</pubDate>
+      <guid>https://www.jensihrig.de/posts/2026/0424-mehr-uebersicht-mit-cmux/</guid>
+      <description>&lt;p&gt;Was mich schon länger umtreibt ist die Frage: wie behalte ich die Übersicht wenn ich mehrere Instanzen von Claude Code und/oder Codex parallel arbeiten lasse. Lustigerweise haben wir darüber auch am Donnerstag in unserer Software Engineering Community of Practice (COP) bei der Arbeit geredet. Bisher hatte ich immer mehrere Tabs im Terminal oder in VSCode offen. Ab einer bestimmten Anzahl verlor ich immer den Überblick. Auch Claude Features wie &lt;code&gt;/rename&lt;/code&gt; und &lt;code&gt;/color&lt;/code&gt; halfen nur bedingt, da ich ja trotzdem zuerst ein Tab öffnen musste um zu sehen was sich dahinter verbirgt, außerdem bekam ich nie mit wenn eine der Instanzen auf User Input wartete.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Thai Food Festival Importer</title>
       <link>https://www.jensihrig.de/posts/2026/0306-thai-food-festival-importer/</link>
