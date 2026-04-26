@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.jensihrig.de/categories/</loc>
+    <lastmod>2026-04-24T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/categories/drau%C3%9Fen/</loc>
+    <lastmod>2026-04-24T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/tags/freiburg/</loc>
+    <lastmod>2026-04-24T12:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://www.jensihrig.de/</loc>
     <lastmod>2026-04-24T12:00:00+02:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/posts/</loc>
     <lastmod>2026-04-24T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.jensihrig.de/categories/</loc>
-    <lastmod>2026-04-17T13:00:00+02:00</lastmod>
+    <loc>https://www.jensihrig.de/tags/</loc>
+    <lastmod>2026-04-24T12:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://www.jensihrig.de/categories/drau%C3%9Fen/</loc>
-    <lastmod>2026-04-17T13:00:00+02:00</lastmod>
+    <loc>https://www.jensihrig.de/tags/wandern/</loc>
+    <lastmod>2026-04-24T12:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://www.jensihrig.de/posts/2026/0424-wanderung-nach-bohrer/</loc>
+    <lastmod>2026-04-24T12:00:00+02:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/tags/heidelberg/</loc>
     <lastmod>2026-04-17T13:00:00+02:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/posts/2026/0417-heidelberg/</loc>
-    <lastmod>2026-04-17T13:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/tags/</loc>
     <lastmod>2026-04-17T13:00:00+02:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/tags/agent-skills/</loc>
@@ -38,13 +47,7 @@
     <loc>https://www.jensihrig.de/posts/2026/0320-abschied-vom-muenster/</loc>
     <lastmod>2026-03-20T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://www.jensihrig.de/tags/freiburg/</loc>
-    <lastmod>2026-03-20T12:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://www.jensihrig.de/tags/dreisamtal/</loc>
-    <lastmod>2026-03-13T20:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://www.jensihrig.de/tags/wandern/</loc>
     <lastmod>2026-03-13T20:00:00+01:00</lastmod>
   </url><url>
     <loc>https://www.jensihrig.de/posts/2026/0313-wanderung-vom-welchental/</loc>
